@@ -15,8 +15,6 @@ Hello! I'm İsmail Emir Tiryaki, an iOS and web developer with a passion for bui
 - **Databases:** Firebase, SQL  
 
 ## 📂 Featured Projects
-### [E-Commerce App](https://github.com/emirirr/your-project)
-An iOS e-commerce application built with Swift. I developed custom components like `AppBarComponent` to enhance user experience.
 
 ### [Odak Software Website](https://odaksoftware.com)
 A responsive website designed and developed using HTML, CSS, and JavaScript.
