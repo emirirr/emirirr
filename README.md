@@ -1,29 +1,31 @@
 # İsmail Emir Tiryaki
 
-Merhaba! Ben İsmail Emir Tiryaki. iOS uygulama geliştirme ve web geliştirme alanında çalışıyorum. Özellikle Swift ile iOS uygulamaları üzerinde yoğunlaşıyorum. Aşağıda projelerim hakkında detaylı bilgileri bulabilirsiniz.
+Hello! I'm İsmail Emir Tiryaki, an iOS and web developer with a passion for building user-focused applications. I specialize in Swift for iOS development and enjoy creating elegant solutions for modern problems.
 
-### 🚀 Hakkımda
-- 💻 iOS geliştirici olma yolunda çalışıyorum.
-- 🌱 Swift, UIKit ve React gibi teknolojiler üzerinde kendimi geliştiriyorum.
-- 🔧 Mobil ve web projelerinde kullanıcı odaklı tasarımlar oluşturmaya odaklanıyorum.
-- 📚 Hoca Ahmet Yesevi Üniversitesi, Bilgisayar Programcılığı öğrencisiyim.
+## 🚀 About Me
+- 💻 Aspiring iOS Developer.
+- 🌱 Growing my skills in Swift, UIKit, and React.
+- 🔧 Focused on creating user-friendly designs for mobile and web projects.
+- 📚 Studying Computer Programming at Hoca Ahmet Yesevi University.
 
-### 🛠️ Teknik Yetkinlikler
-- **Diller:** Swift, Python, HTML/CSS, JavaScript
-- **Araçlar:** Xcode, Git, GitHub
-- **Frameworkler:** UIKit, SwiftUI, React
-- **Veritabanı:** Firebase, SQL
+## 🛠️ Technical Skills
+- **Languages:** Swift, Python, HTML/CSS, JavaScript  
+- **Tools:** Xcode, Git, GitHub  
+- **Frameworks:** UIKit, SwiftUI, React  
+- **Databases:** Firebase, SQL  
 
-### 📂 Öne Çıkan Projeler
-- **[E-Ticaret Uygulaması](https://github.com/emirirr/your-project)**  
-  Swift kullanarak geliştirdiğim bir iOS e-ticaret uygulaması. Uygulama içinde 'AppBarComponent' gibi özel bileşenler oluşturdum.
-  
-- **[Odak Software Web Sitesi](https://odaksoftware.com)**  
-  HTML, CSS ve JavaScript kullanarak responsive bir web sitesi tasarladım ve geliştirdim.
+## 📂 Featured Projects
+### [E-Commerce App](https://github.com/emirirr/your-project)
+An iOS e-commerce application built with Swift. I developed custom components like `AppBarComponent` to enhance user experience.
 
-### 📫 Bana Ulaşın
-- **E-posta:** ismailtiraki1@gmail.com
-- **LinkedIn:** [İsmail Emir Tiryaki](https://www.linkedin.com/in/ismail-emir-tiryaki-784b8118a/)
-- **Web Sitesi:** [tiryakiyazilim.com](https://tiryakiyazilim.com)
+### [Odak Software Website](https://odaksoftware.com)
+A responsive website designed and developed using HTML, CSS, and JavaScript.
 
-Projelerimi inceleyebilir ve katkıda bulunmak için iletişime geçebilirsiniz! 😊
+## 📫 Contact Me
+- **Email:** [ismailtiraki1@gmail.com](mailto:ismailtiraki1@gmail.com)  
+- **LinkedIn:** [İsmail Emir Tiryaki](https://www.linkedin.com/in/ismail-emir-tiryaki-784b8118a/)  
+- **Website:** [tiryakiyazilim.com](https://tiryakiyazilim.com)  
+
+---
+
+Feel free to explore my projects or reach out for collaborations! 😊
