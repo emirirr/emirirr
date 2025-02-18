@@ -1,40 +1,27 @@
-👋 Hi! I'm Emir Tiryaki  
-I'm a software developer specializing in iOS development and UI/UX design. On this page, you'll find a variety of projects, ranging from professional applications to open-source contributions.
+👋 Hi! I'm Emir Tiryaki
+I'm a software developer specializing in iOS development, web development, and UI/UX design. On this page, you'll find a variety of projects, ranging from professional applications to open-source contributions. I focus on building user-friendly and innovative solutions using modern technologies.
 
----
+🚀 My Expertise
+iOS Development: Swift, SwiftUI, UIKit
+Web Development: React, HTML, CSS, JavaScript
+UI/UX Design: Figma, Photoshop, Illustrator
+Database & Cloud Technologies: Firebase, SQLite
+🌟 Featured Projects
+✅ Farkeder – A user-friendly app that helps people plan their day, including meal choices.
+✅ Fishero – A social networking platform designed for fishing enthusiasts.
+✅ Therapy – A health app that assists in managing pain relief devices for body therapy.
+✅ Cebinde – A smart personal finance and budget management app.
+✅ Golgagalaksisi – A football analysis platform with live scores, stats, and more.
+✅ ChargeWay – An electric vehicle charging station locator app.
+✅ EczaneNerede – A location-based app for finding the nearest pharmacies.
+✅ CardVault – A secure vault for storing and managing card information.
+✅ Kuta – A delivery tracking and management app.
+✅ OdakSoftware – My software development brand for professional and personal projects.
+✅ TiryakiYazılım – My personal software company focusing on innovation.
 
-🚀 My Expertise  
-- **iOS Development:** Swift, SwiftUI, UIKit  
-- **UI/UX Design:** Figma, Photoshop, Illustrator  
-- **Database & Cloud Technologies:** Firebase, SQLite  
-- **Web Development:** HTML, CSS, JavaScript  
+📫 Contact Me
+📩 Email: info@emirtiryaki.com
+🔗 LinkedIn: Emir Tiryaki
+💻 Website: Odak Software
 
----
-
-🌟 Featured Projects  
-
-- **Farkeder:**  
-  A user-friendly app that makes a difference with innovative solutions.  
-
-- **Fishero:**  
-  A comprehensive platform specially designed for fishing enthusiasts.  
-
-- **Terapi:**  
-  A professional mental health and therapy solutions platform.  
-
-- **Cebinde:**  
-  A smart personal finance management and budget planning app.  
-
-- **Gol Galaksisi:**  
-  A football analysis platform with live scores, detailed statistics, and more.  
-
----
-
-📫 Contact Me  
-- **Email:** ismailtiraki1@gmail.com  
-- **LinkedIn:** [Emir Tiryaki](https://www.linkedin.com/in/emir-tiryaki-784b8118a/)  
-- **Website:** [Odak Software](https://odaksoftware.com)  
-
----
-
-Feel free to reach out for collaboration or feedback on my projects! 🌟
+Feel free to reach out for collaboration, feedback, or exciting new opportunities! 🚀
