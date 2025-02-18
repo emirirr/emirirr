@@ -35,7 +35,8 @@ I'm a **software developer** specializing in **iOS development, web development,
 
 📩 **Email:** [info@emirtiryaki.com](mailto:info@emirtiryaki.com)  
 🔗 **LinkedIn:** [Emir Tiryaki](https://www.linkedin.com/in/emir-tiryaki-784b8118a/)  
-💻 **Website:** [Odak Software](https://odaksoftware.com)  
+💻 **Website:** [Emir Tiryaki](https://emirtiryaki.com)  
+
 
 ---
 
