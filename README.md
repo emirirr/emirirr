@@ -40,11 +40,3 @@ I'm a **software developer** specializing in **iOS development, web development,
 
 ---
 
-### ⚡ GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=radical)  
-
----
-
-Feel free to reach out for **collaboration, feedback, or exciting new opportunities!** 🚀  
