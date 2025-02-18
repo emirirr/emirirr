@@ -1,27 +1,49 @@
-👋 Hi! I'm Emir Tiryaki
-I'm a software developer specializing in iOS development, web development, and UI/UX design. On this page, you'll find a variety of projects, ranging from professional applications to open-source contributions. I focus on building user-friendly and innovative solutions using modern technologies.
+# 👋 Hi! I'm Emir Tiryaki  
 
-🚀 My Expertise
-iOS Development: Swift, SwiftUI, UIKit
-Web Development: React, HTML, CSS, JavaScript
-UI/UX Design: Figma, Photoshop, Illustrator
-Database & Cloud Technologies: Firebase, SQLite
-🌟 Featured Projects
-✅ Farkeder – A user-friendly app that helps people plan their day, including meal choices.
-✅ Fishero – A social networking platform designed for fishing enthusiasts.
-✅ Therapy – A health app that assists in managing pain relief devices for body therapy.
-✅ Cebinde – A smart personal finance and budget management app.
-✅ Golgagalaksisi – A football analysis platform with live scores, stats, and more.
-✅ ChargeWay – An electric vehicle charging station locator app.
-✅ EczaneNerede – A location-based app for finding the nearest pharmacies.
-✅ CardVault – A secure vault for storing and managing card information.
-✅ Kuta – A delivery tracking and management app.
-✅ OdakSoftware – My software development brand for professional and personal projects.
-✅ TiryakiYazılım – My personal software company focusing on innovation.
+I'm a **software developer** specializing in **iOS development, web development, and UI/UX design**. I focus on building **user-friendly and innovative solutions** using modern technologies. Here, you'll find my professional and open-source projects.  
 
-📫 Contact Me
-📩 Email: info@emirtiryaki.com
-🔗 LinkedIn: Emir Tiryaki
-💻 Website: Odak Software
+---
 
-Feel free to reach out for collaboration, feedback, or exciting new opportunities! 🚀
+## 🚀 My Expertise  
+- **iOS Development:** Swift, SwiftUI, UIKit  
+- **Web Development:** React, HTML, CSS, JavaScript  
+- **UI/UX Design:** Figma, Photoshop, Illustrator  
+- **Database & Cloud Technologies:** Firebase, SQLite  
+
+---
+
+## 🌟 Featured Projects  
+
+### 🖥 **Web & Mobile Applications**  
+- 🔹 **[Farkeder](https://emirtiryaki.com)** – A user-friendly app that helps people plan their day, including meal choices.  
+- 🔹 **[Fishero](https://emirtiryaki.com)** – A social networking platform designed for fishing enthusiasts.  
+- 🔹 **[Therapy](https://emirtiryaki.com)** – A health app that assists in managing pain relief devices for body therapy.  
+- 🔹 **[Cebinde](https://emirtiryaki.com)** – A smart personal finance and budget management app.  
+- 🔹 **[Golgagalaksisi](https://emirtiryaki.com)** – A football analysis platform with live scores, stats, and more.  
+- 🔹 **[ChargeWay](https://emirtiryaki.com)** – An electric vehicle charging station locator app.  
+- 🔹 **[EczaneNerede](https://emirtiryaki.com)** – A location-based app for finding the nearest pharmacies.  
+- 🔹 **[CardVault](https://emirtiryaki.com)** – A secure vault for storing and managing card information.  
+- 🔹 **[Kuta](https://emirtiryaki.com)** – A delivery tracking and management app.  
+
+### 💼 **My Software Brands & Websites**  
+- 🚀 **[OdakSoftware](https://odaksoftware.com)** – My software development brand for professional and personal projects.  
+- 🔹 **[TiryakiYazılım](https://emirtiryaki.com)** – My personal software company focusing on innovation.  
+
+---
+
+## 📫 Contact Me  
+
+📩 **Email:** [info@emirtiryaki.com](mailto:info@emirtiryaki.com)  
+🔗 **LinkedIn:** [Emir Tiryaki](https://www.linkedin.com/in/emir-tiryaki-784b8118a/)  
+💻 **Website:** [Odak Software](https://odaksoftware.com)  
+
+---
+
+### ⚡ GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=radical)  
+
+---
+
+Feel free to reach out for **collaboration, feedback, or exciting new opportunities!** 🚀  
