@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm Emir Tiryaki</h1>
 
 <p align="center">
-  <b>Software Developer</b> | iOS & Web Enthusiast | UI/UX Designer  
+  <b>Software Developer</b> | iOS & Web Developer | UI/UX Designer  
   <br>Building seamless, user-friendly applications with modern technologies.
 </p>
 
