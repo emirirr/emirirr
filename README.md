@@ -28,37 +28,7 @@ I'm an experienced **Software Developer** passionate about creating **intuitive 
 
 ---
 
-## 🌟 Featured Projects  
 
-### 🖥 **Web & Mobile Applications**  
-📌 **[Farkeder](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/farkeder))**  
-*A productivity app that helps users plan their day, including meal choices.*  
-
-📌 **[FisHero](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/fishero))**  
-*A social networking platform designed for fishing enthusiasts to share experiences.*  
-
-📌 **[Therapy](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/therapy))**  
-*A health app for managing pain relief devices with a smart user interface.*  
-
-📌 **[Cebinde](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/cebinde))**  
-*A smart personal finance and budget management app.*  
-
-📌 **[Golgagalaksisi](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/golgagalaksisi))**  
-*A football analysis platform with live scores and in-depth stats.*  
-
-📌 **[ChargeWay](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/chargeway))**  
-*An electric vehicle charging station locator app.*  
-
-📌 **[EczaneNerede](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/eczane-nerede))**  
-*A location-based app for finding nearby pharmacies.*  
-
-📌 **[CardVault](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/cardvault))**  
-*A secure vault for storing and managing card information.*  
-
-📌 **[Kuta](https://emirtiryaki.com) ([GitHub](https://github.com/emirtiryaki/kuta))**  
-*A delivery tracking and management app.*  
-
----
 
 ## 💼 My Software Brands & Websites  
 🚀 **[OdakSoftware](https://odaksoftware.com)** – Professional and personal software projects.  
