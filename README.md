@@ -31,6 +31,7 @@ I'm an experienced **Software Developer** passionate about creating **intuitive 
 
 
 ## 💼 My Software Brands & Websites  
+🚀 **[Kodlasa](https://kodlasa.com)**   
 🚀 **[OdakSoftware](https://odaksoftware.com)** – Professional and personal software projects.  
 💡 **[TiryakiYazılım](https://emirtiryaki.com)** – My personal software company focused on innovation.  
 
