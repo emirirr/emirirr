@@ -13,28 +13,13 @@
 🔹 Specialized in **iOS (Swift, SwiftUI)** and **Web (React, JavaScript)** development.  
 🔹 Experienced in **UI/UX design** and cloud-based solutions with **Firebase**.
 
----
-
-## 🏆 GitHub Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/MultiLanguage-Experienced-blue" />
-  <img src="https://img.shields.io/badge/Repositories-Active-blue" />
-  <img src="https://img.shields.io/badge/Commits-Consistent-blue" />
-  <img src="https://img.shields.io/badge/Stars-Received-blue" />
-  <img src="https://img.shields.io/badge/Followers-Growing-blue" />
-</p>
-
----
 
 ## 🔗 Projects & Brands
 - **[Kodlasa](https://kodlasa.com)** – Custom Software Solutions
 - **[OdakSoftware](https://odaksoftware.com)** – Mobile & Web Apps
 - **[TiryakiYazılım](https://emirtiryaki.com)** – Personal Software Company
 
----
 
-
----
 
 ## 🔥 Most Used Languages
 | Language | Percentage |
