@@ -5,15 +5,19 @@
   <br>Building seamless, user-friendly applications with modern technologies.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirtiryaki&label=Profile%20views&color=0e75b6&style=flat" alt="emirtiryaki" />
+</p>
+
 ---
 
 ## 🚀 About Me  
 I'm an experienced **Software Developer** passionate about creating **intuitive and engaging digital experiences**. My expertise lies in:  
 
-- **📱 iOS Development:** Swift, SwiftUI, UIKit  
-- **🌐 Web Development:** React, HTML, CSS, JavaScript  
-- **🎨 UI/UX Design:** Figma, Photoshop, Illustrator  
-- **☁️ Database & Cloud:** Firebase, SQLite  
+- 📱 **iOS Development:** Swift, SwiftUI, UIKit  
+- 🌐 **Web Development:** React, HTML, CSS, JavaScript  
+- 🎨 **UI/UX Design:** Figma, Photoshop, Illustrator  
+- ☁️ **Database & Cloud:** Firebase, SQLite  
 
 ---
 
@@ -28,12 +32,28 @@ I'm an experienced **Software Developer** passionate about creating **intuitive 
 
 ---
 
+## 🌱 Currently Learning
+- 🔥 Advanced SwiftUI Animations
+- 🧠 Clean Architecture in iOS
+- 🤖 AI-integrated Web Apps
 
+---
 
 ## 💼 My Software Brands & Websites  
-🚀 **[Kodlasa](https://kodlasa.com)**   
-🚀 **[OdakSoftware](https://odaksoftware.com)** – Professional and personal software projects.  
-💡 **[TiryakiYazılım](https://emirtiryaki.com)** – My personal software company focused on innovation.  
+🚀 **[Kodlasa](https://kodlasa.com)** – *Your idea, we code it.*  
+🚀 **[OdakSoftware](https://odaksoftware.com)** – *Professional and personal software projects.*  
+💡 **[TiryakiYazılım](https://emirtiryaki.com)** – *Focused on innovation and creativity.*  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emirtiryaki&show_icons=true&theme=radical" alt="Emir's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirtiryaki&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
@@ -53,4 +73,11 @@ I'm an experienced **Software Developer** passionate about creating **intuitive 
 
 ---
 
-### 🚀 I'm open to collaboration and new opportunities! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/emir-tiryaki-784b8118a/) or [email](mailto:info@emirtiryaki.com).  
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/emirtiryaki/emirtiryaki/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 🚀 I'm open to collaboration and new opportunities! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/emir-tiryaki-784b8118a/) or [email](mailto:info@emirtiryaki.com).
