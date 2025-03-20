@@ -1,9 +1,6 @@
-<h1 align="center">Emir Tiryaki</h1>
+<h1 align="center">Hi 👋, I'm Emir Tiryaki</h1>
 
-<p align="center">
-  <b>Software Developer | iOS & Web Developer | UI/UX Designer</b>  
-  <br>Delivering seamless, user-centric applications with modern technologies.
-</p>
+<h3 align="center">iOS & Web Application Developer | UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emirtiryaki&label=Profile%20views&color=0e75b6&style=flat" alt="emirtiryaki" />
@@ -11,62 +8,57 @@
 
 ---
 
-## About Me  
-Experienced software developer specializing in crafting high-performance mobile and web applications. Proficient in designing user-friendly interfaces and building scalable systems.
-
-**Key Expertise Areas:**  
-- iOS Development (Swift, SwiftUI, UIKit)  
-- Web Development (React, JavaScript, HTML, CSS)  
-- UI/UX Design (Figma, Photoshop, Illustrator)  
-- Cloud & Database Management (Firebase, SQLite)
+## 🚀 About Me
+🔹 Passionate about building scalable mobile and web applications.  
+🔹 Specialized in **iOS (Swift, SwiftUI)** and **Web (React, JavaScript)** development.  
+🔹 Experienced in **UI/UX design** and cloud-based solutions with **Firebase**.
 
 ---
 
-## Tech Stack  
+## 🏆 GitHub Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/MultiLanguage-Experienced-blue" />
+  <img src="https://img.shields.io/badge/Repositories-Active-blue" />
+  <img src="https://img.shields.io/badge/Commits-Consistent-blue" />
+  <img src="https://img.shields.io/badge/Stars-Received-blue" />
+  <img src="https://img.shields.io/badge/Followers-Growing-blue" />
 </p>
 
 ---
 
-## Focus Areas & Current Interests
-- Scalable Mobile Applications with SwiftUI
-- Advanced Web Development with React
-- User Experience Design & Prototyping
-- Cloud Integration and Real-Time Databases
+## 🔗 Projects & Brands
+- **[Kodlasa](https://kodlasa.com)** – Custom Software Solutions
+- **[OdakSoftware](https://odaksoftware.com)** – Mobile & Web Apps
+- **[TiryakiYazılım](https://emirtiryaki.com)** – Personal Software Company
 
 ---
 
-## Brands & Projects  
-- **[Kodlasa](https://kodlasa.com)** – Software solutions and consultancy services  
-- **[OdakSoftware](https://odaksoftware.com)** – End-to-end digital product development  
-- **[TiryakiYazılım](https://emirtiryaki.com)** – Personal projects and software initiatives  
-
----
-
-## GitHub Statistics
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirtiryaki&show_icons=true&theme=default" alt="Emir's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirtiryaki&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emirtiryaki&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirtiryaki&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
-## Contact  
-For business inquiries and collaborations:
+## 🔥 Most Used Languages
+| Language | Percentage |
+|---------|-----------|
+| Swift   | 45%        |
+| JavaScript | 25%    |
+| HTML / CSS | 15%    |
+| Firebase | 10%      |
+| Figma / UI | 5%     |
+
+---
+
+## 📬 Contact & Socials
+📩 Mail: [info@emirtiryaki.com](mailto:info@emirtiryaki.com)  
+🔗 LinkedIn: [linkedin.com/in/emir-tiryaki-784b8118a](https://www.linkedin.com/in/emir-tiryaki-784b8118a/)  
+🌐 Website: [emirtiryaki.com](https://emirtiryaki.com)  
 
 <p align="center">
-  <a href="mailto:info@emirtiryaki.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/emir-tiryaki-784b8118a/">
+  <a href="https://linkedin.com/in/emir-tiryaki-784b8118a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://emirtiryaki.com">
@@ -76,6 +68,8 @@ For business inquiries and collaborations:
 
 ---
 
-## Availability  
-Open to professional collaborations, freelance projects, and full-time opportunities.
-
+## 🤝 Collaboration
+Open to collaboration on:
+- Mobile App Projects (iOS / Android)
+- Web Development Projects
+- UI/UX Design and Prototyping
