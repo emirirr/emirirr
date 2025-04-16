@@ -21,16 +21,6 @@
 
 
 
-## 🔥 Most Used Languages
-| Language | Percentage |
-|---------|-----------|
-| Swift   | 45%        |
-| JavaScript | 25%    |
-| HTML / CSS | 15%    |
-| Firebase | 10%      |
-| Figma / UI | 5%     |
-
----
 
 ## 📬 Contact & Socials
 📩 Mail: [info@emirtiryaki.com](mailto:info@emirtiryaki.com)  
