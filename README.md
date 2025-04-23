@@ -1,45 +1,43 @@
-<h1 align="center">Hi 👋, I'm Emir Tiryaki</h1>
+# 👋 Merhaba, ben Emir
 
-<h3 align="center">iOS & Web Application Developer | UI/UX Designer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirtiryaki&label=Profile%20views&color=0e75b6&style=flat" alt="emirtiryaki" />
-</p>
+Ben İsmail Emir Tiryaki – iOS ve Web geliştirme alanında çalışan, üretken ve sürekli gelişmeyi hedefleyen bir yazılım geliştiricisiyim.  
+SwiftUI, React ve modern web teknolojileriyle kullanıcı dostu, sade ve işlevsel uygulamalar geliştiriyorum.
 
 ---
 
-## 🚀 About Me
-🔹 Passionate about building scalable mobile and web applications.  
-🔹 Specialized in **iOS (Swift, SwiftUI)** and **Web (React, JavaScript)** development.  
-🔹 Experienced in **UI/UX design** and cloud-based solutions with **Firebase**.
+## 🚀 Projelerden Bazıları
 
-
-## 🔗 Projects & Brands
-- **[Kodlasa](https://kodlasa.com)** – Custom Software Solutions
-- **[OdakSoftware](https://odaksoftware.com)** – Mobile & Web Apps
-- **[TiryakiYazılım](https://emirtiryaki.com)** – Personal Software Company
-
-
-
-
-## 📬 Contact & Socials
-📩 Mail: [info@emirtiryaki.com](mailto:info@emirtiryaki.com)  
-🔗 LinkedIn: [linkedin.com/in/emir-tiryaki-784b8118a](https://www.linkedin.com/in/emir-tiryaki-784b8118a/)  
-🌐 Website: [emirtiryaki.com](https://emirtiryaki.com)  
-
-<p align="center">
-  <a href="https://linkedin.com/in/emir-tiryaki-784b8118a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://emirtiryaki.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white">
-  </a>
-</p>
+- 🎣 **FisHero** – Amatör balıkçılar için sosyal paylaşım uygulaması *(SwiftUI, MapKit)*  
+- 🍳 **Farkeder** – Malzeme bazlı akıllı yemek tarifi uygulaması *(React, JS)*  
+- 🚚 **Kuta** – Kurye teslimat takip sistemi *(React)*  
+- 🧰 **Ege Teknik** – Teknik servis firması için kurumsal web sitesi *(HTML, CSS, JS)*  
+- 💳 **CardVault** – Kart yönetimi ve güvenli saklama uygulaması *(SwiftUI, Keychain)*  
+- 💰 **Cebinde** – Kişisel bütçe yönetimi ve finansal analiz *(SwiftUI, Charts)*  
+- ⚡ **ChargeWay** – Elektrikli araçlar için şarj istasyonu haritalama *(React, MapKit)*  
+- ⚽ **Golgagalaksisi** – Futbol istatistikleri ve analiz platformu  
+- 🧠 **BA-Helper** – İş analistlerine özel AI destekli görev yönetimi *(React, OpenAI, Firebase)*  
+- 🩺 **Therapy** – Medikal cihaz bağlantılı terapi yönetimi *(SwiftUI, Bluetooth, HealthKit)*  
+- 🏪 **EczanemNerede** – Nöbetçi eczane haritalama uygulaması *(Konum tabanlı)*
 
 ---
 
-## 🤝 Collaboration
-Open to collaboration on:
-- Mobile App Projects (iOS / Android)
-- Web Development Projects
-- UI/UX Design and Prototyping
+## 🛠️ Kullandığım Teknolojiler
+
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **iOS Geliştirme:** Swift, SwiftUI, UIKit  
+- **Veri ve Bulut:** Firebase, HealthKit, MapKit  
+- **UI/UX:** Figma, Photoshop, Illustrator  
+- **Ekstralar:** Git, GitHub, Responsive Tasarım, Clean Code
+
+---
+
+## 🌍 Benimle İletişime Geç
+
+- 🌐 Web Sitem: [emirtiryaki.com](https://emirtiryaki.com)  
+- 📫 Mail: info@emirtiryaki.com  
+- 💼 LinkedIn: [linkedin.com/in/emir-tiryaki](https://linkedin.com/in/emir-tiryaki)
+
+---
+
+> “Kod sadece araç, mesele çözüm üretmek.”  
+> **Bir fikrin varsa, biri bunu Kodlasa! 🚀**
