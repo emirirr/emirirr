@@ -38,6 +38,3 @@ I build sleek, functional applications using **SwiftUI**, **React**, and modern 
 - 💼 LinkedIn: [linkedin.com/in/emir-tiryaki](https://linkedin.com/in/emir-tiryaki)
 
 ---
-
-> *"Code is just a tool — real value comes from solving problems."*  
-> **Got an idea? Someone should Kodlasa it! 🚀**
