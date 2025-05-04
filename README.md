@@ -8,15 +8,6 @@
 
 ---
 
-🏗️ **Projelerimden Bazıları**  
-🎣 FisHero – Amatör balıkçılar için sosyal ağ  
-🚚 Kuta – Kurye takip ve teslimat sistemi  
-🍽️ Farkeder – Günlük planlama ve yemek öneri sistemi  
-🛍️ Figrinova – WhatsApp destekli e-ticaret platformu  
-🧠 Therapy App – Cihaz bağlantılı terapi uygulaması  
-
----
-
 🔍 İş birliği yapmak istediğim konular:  
 **React**, **SwiftUI**, **Firebase**, **TypeScript**, **iOS/Web projeleri**
 
