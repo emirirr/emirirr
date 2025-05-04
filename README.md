@@ -34,6 +34,3 @@
 | En Çok Kullanılan Diller | GitHub Verileri |
 |--------------------------|------------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirtiryaki&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirtiryaki&show_icons=true&theme=radical) |
-
-
----
