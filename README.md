@@ -1,40 +1,37 @@
-# 👋 Hi, I'm Emir
+# 👋 Merhaba, ben İsmail Emir Tiryaki
 
-I'm İsmail Emir Tiryaki – a passionate iOS and Web Developer who believes in continuous growth and clean, user-focused design.  
-I build sleek, functional applications using **SwiftUI**, **React**, and modern web technologies.
-
----
-
-## 🚀 Some of My Projects
-
-- 🎣 **FisHero** – Social platform for amateur fishers *(SwiftUI, MapKit)*  
-- 🍳 **Farkeder** – Smart recipe app based on available ingredients *(React, JavaScript)*  
-- 🚚 **Kuta** – Courier delivery tracking system *(React)*  
-- 🧰 **Ege Teknik** – Corporate website for a technical service company *(HTML, CSS, JavaScript)*  
-- 💳 **CardVault** – Secure card management and storage app *(SwiftUI, Keychain)*  
-- 💰 **Cebinde** – Personal finance management and analysis *(SwiftUI, Charts)*  
-- ⚡ **ChargeWay** – EV charging station mapping app *(React, MapKit)*  
-- ⚽ **Golgagalaksisi** – Football statistics and analytics platform  
-- 🧠 **BA-Helper** – AI-powered task management tool for business analysts *(React, OpenAI, Firebase)*  
-- 🩺 **Therapy** – Therapy management app connected to a medical device *(SwiftUI, Bluetooth, HealthKit)*  
-- 🏪 **EczanemNerede** – Nearby pharmacy locator app *(Location-based services)*
+Ben Web ve Mobil uygulama geliştiricisiyim. Modern teknolojileri kullanarak sade, hızlı ve kullanıcı odaklı projeler geliştiriyorum.  
+Yeni şeyler öğrenmeyi, üretmeyi ve projeleri sıfırdan inşa etmeyi seviyorum.  
+Şu anda kendi projelerim üzerinde çalışıyor, freelance işler alıyor ve açık kaynak katkıları yapmaya devam ediyorum.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Öne Çıkan Projeler
 
-- **Frontend:** React, JavaScript, HTML5, CSS3  
-- **iOS Development:** Swift, SwiftUI, UIKit  
-- **Backend & Cloud:** Firebase, HealthKit, MapKit  
-- **UI/UX Design:** Figma, Photoshop, Illustrator  
-- **Others:** Git, GitHub, Responsive Design, Clean Code Principles
+- 🎣 **FisHero** – Amatör balıkçılar için sosyal platform *(React, Firebase, TypeScript)*
+- 🍽️ **Farkeder** – Akıllı yemek planlayıcı web app *(React, Firebase, Google Maps)*
+- 🚚 **Kuta** – Kurye teslimat ve takip sistemi *(React, Google Maps API, Firebase, PDF export)*
+- 🛍️ **Figrinova** – WhatsApp üzerinden sipariş alabilen e-ticaret sitesi *(HTML, CSS, JS)*
+- 🧠 **Therapy App** – Bluetooth bağlantılı terapi takip uygulaması *(SwiftUI, HealthKit, Bluetooth)*
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+`React` `TypeScript` `Firebase` `Tailwind CSS`  
+`SwiftUI` `MapKit` `Figma` `Git & GitHub`  
 
 ---
 
-## 🌍 Let's Connect
+## 📈 Hedefim
 
-- 🌐 Website: [emirtiryaki.com](https://emirtiryaki.com)  
-- 📫 Email: info@emirtiryaki.com  
-- 💼 LinkedIn: [linkedin.com/in/emir-tiryaki](https://linkedin.com/in/emir-tiryaki)
+Kendi adımla tanınan, kaliteli ve sürdürülebilir yazılım projeleri geliştirmek.  
+Full-stack geliştirici olarak daha fazla deneyim kazanmak ve topluluğa katkı sağlamak istiyorum.
 
 ---
+
+## 📫 İletişim
+
+- 📧 ismailtiraki1@gmail.com  
+- 🌐 [emirtiryaki.com](https://emirtiryaki.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ismail-emir-tiryaki)  
