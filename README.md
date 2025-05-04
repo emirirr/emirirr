@@ -1,37 +1,32 @@
-# 👋 Merhaba, ben İsmail Emir Tiryaki
-
-Ben Web ve Mobil uygulama geliştiricisiyim. Modern teknolojileri kullanarak sade, hızlı ve kullanıcı odaklı projeler geliştiriyorum.  
-Yeni şeyler öğrenmeyi, üretmeyi ve projeleri sıfırdan inşa etmeyi seviyorum.  
-Şu anda kendi projelerim üzerinde çalışıyor, freelance işler alıyor ve açık kaynak katkıları yapmaya devam ediyorum.
+# Hi 👋, I'm İsmail Emir Tiryaki  
+🧑‍💻 Web & Mobile Application Developer  
+**emirtiryaki**
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+ I’m looking to collaborate on React, TypeScript, and SwiftUI-based projects  
+ I’m currently improving my skills in full-stack development  
+ I’m currently working on: **FisHero**, **Kuta**, **Farkeder**, and **Figrinova**
 
-- 🎣 **FisHero** – Amatör balıkçılar için sosyal platform *(React, Firebase, TypeScript)*
-- 🍽️ **Farkeder** – Akıllı yemek planlayıcı web app *(React, Firebase, Google Maps)*
-- 🚚 **Kuta** – Kurye teslimat ve takip sistemi *(React, Google Maps API, Firebase, PDF export)*
-- 🛍️ **Figrinova** – WhatsApp üzerinden sipariş alabilen e-ticaret sitesi *(HTML, CSS, JS)*
-- 🧠 **Therapy App** – Bluetooth bağlantılı terapi takip uygulaması *(SwiftUI, HealthKit, Bluetooth)*
+👨‍💻 All of my projects are available at: [github.com/emirtiryaki](https://github.com/emirtiryaki)
 
----
+💬 Ask me about anything related to **React**, **Firebase**, **SwiftUI**, or **Web & Mobile Development**
 
-## 🛠️ Kullandığım Teknolojiler
-
-`React` `TypeScript` `Firebase` `Tailwind CSS`  
-`SwiftUI` `MapKit` `Figma` `Git & GitHub`  
+📫 How to reach me: **ismailtiraki1@gmail.com**  
+📄 Know more about me: [linkedin.com/in/ismail-emir-tiryaki](https://www.linkedin.com/in/ismail-emir-tiryaki)  
+🌐 Personal Website: [emirtiryaki.com](https://emirtiryaki.com)
 
 ---
 
-## 📈 Hedefim
+### Connect with me:
 
-Kendi adımla tanınan, kaliteli ve sürdürülebilir yazılım projeleri geliştirmek.  
-Full-stack geliştirici olarak daha fazla deneyim kazanmak ve topluluğa katkı sağlamak istiyorum.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ismail-emir-tiryaki)  
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emirtiryaki)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emirtiryaki)
 
 ---
 
-## 📫 İletişim
+### GitHub Stats
 
-- 📧 ismailtiraki1@gmail.com  
-- 🌐 [emirtiryaki.com](https://emirtiryaki.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ismail-emir-tiryaki)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirtiryaki&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirtiryaki&layout=compact&theme=radical)
