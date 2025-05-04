@@ -31,8 +31,9 @@ React · SwiftUI · Firebase · TypeScript · iOS/Web projects
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=dark" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=dark" alt="Most Used Languages" />
+[  <img src="https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=dark" alt="GitHub Stats" />  
+](https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=dark&hide_border=true&width=380
+)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
