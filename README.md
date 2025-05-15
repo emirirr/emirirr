@@ -2,14 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=emirirr&label=Profile%20views&color=0e75b6&style=flat" alt="emirirr" />
 </p>
 
-<h1 align="center">✨ Hi there 👋, I’m <strong>İsmail Emir Tiryaki</strong> ✨</h1>
+<h1 align="center"> Hi there 👋, I’m <strong>İsmail Emir Tiryaki</strong> </h1>
 <h3 align="center">iOS · Web · Mobile Application Developer</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Currently studying Computer Programming at Ahmet Yesevi University (2024–2026)  
-- 💼 Founder of **Kodlasa** and **Odak Software**  
 - 🌱 Passionate about building user-centric apps with **React**, **SwiftUI** & **Firebase**  
 - 🤝 Always open to collaborating on exciting iOS/Web projects  
 
@@ -27,16 +26,6 @@
 
 ---
 
-## 💻 Featured Projects
-
-| Project      | Description                                              | Tech                          | Link                                           |
-| ------------ | -------------------------------------------------------- | ----------------------------- | ---------------------------------------------- |
-| **FisHero**  | Social platform for amateur anglers                      | SwiftUI · MapKit · Firebase   | [GitHub](https://github.com/emirirr/fishero)   |
-| **Farkeder** | Smart meal planner based on available ingredients       | React · JavaScript            | [Live Demo](https://farkeder.odaksoftware.com) |
-| **Kuta**     | Courier delivery tracking system                         | React · TypeScript · Firebase | [GitHub](https://github.com/emirirr/kuta)      |
-| **CardVault**| Secure card management with Keychain support              | SwiftUI · Keychain            | [GitHub](https://github.com/emirirr/cardvault) |
-
----
 
 ## 🤝 Let’s Connect
 
