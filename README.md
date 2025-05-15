@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=emirirr&label=Profile%20views&color=0e75b6&style=flat" alt="emirirr" />
 </p>
 
-<h1 align="center">Hi there 👋, I’m <strong>İsmail Emir Tiryaki</strong></h1>
+<h1 align="center">✨ Hi there 👋, I’m <strong>İsmail Emir Tiryaki</strong> ✨</h1>
 <h3 align="center">iOS · Web · Mobile Application Developer</h3>
 
 ---
@@ -29,12 +29,12 @@
 
 ## 💻 Featured Projects
 
-| Project     | Description                                                | Tech                        | Link                                         |
-| ----------- | ---------------------------------------------------------- | --------------------------- | -------------------------------------------- |
-| **FisHero** | Social platform for amateur anglers                        | SwiftUI · MapKit · Firebase | [GitHub](https://github.com/emirirr/fishero) |
-| **Farkeder** | Smart meal planner based on available ingredients         | React · JavaScript          | [Live Demo](https://farkeder.odaksoftware.com) |
-| **Kuta**    | Courier delivery tracking system                           | React · TypeScript · Firebase | [GitHub](https://github.com/emirirr/kuta)    |
-| **CardVault** | Secure card management with Keychain support             | SwiftUI · Keychain          | [GitHub](https://github.com/emirirr/cardvault) |
+| Project      | Description                                              | Tech                          | Link                                           |
+| ------------ | -------------------------------------------------------- | ----------------------------- | ---------------------------------------------- |
+| **FisHero**  | Social platform for amateur anglers                      | SwiftUI · MapKit · Firebase   | [GitHub](https://github.com/emirirr/fishero)   |
+| **Farkeder** | Smart meal planner based on available ingredients       | React · JavaScript            | [Live Demo](https://farkeder.odaksoftware.com) |
+| **Kuta**     | Courier delivery tracking system                         | React · TypeScript · Firebase | [GitHub](https://github.com/emirirr/kuta)      |
+| **CardVault**| Secure card management with Keychain support              | SwiftUI · Keychain            | [GitHub](https://github.com/emirirr/cardvault) |
 
 ---
 
@@ -42,13 +42,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-tiryaki/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emir%20T%C4%B1ryaki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/emirirr" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/emirirrr" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@emirirrr-c13584?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@emirirrr" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-@emirirrr-e62117?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
