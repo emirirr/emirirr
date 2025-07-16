@@ -2,15 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=emirirr&label=Profile%20views&color=0e75b6&style=flat" alt="emirirr" />
 </p>
 
-<h1 align="center"> Hi there 👋, I’m <strong>İsmail Emir Tiryaki</strong> </h1>
-<h3 align="center">iOS · Web · Mobile Application Developer</h3>
+<h1 align="center">Hey there 👋, I'm <strong>İsmail Emir Tiryaki</strong></h1>
+<h3 align="center">iOS · Web · Mobile App Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Currently studying Computer Programming at Ahmet Yesevi University (2024–2026)  
-- 🌱 Passionate about building user-centric apps with **React**, **SwiftUI** & **Firebase**  
-- 🤝 Always open to collaborating on exciting iOS/Web projects  
+- 🎓 Studying Computer Programming at **Ahmet Yesevi University** (2024–2026)  
+- 💻 Focused on building smooth and user-friendly apps with **React**, **SwiftUI**, and **Firebase**  
+- 🤝 Open to collaboration on iOS, Web, and cross-platform projects  
+- 🌍 Based in **Istanbul, Turkey**
 
 ---
 
@@ -26,12 +27,11 @@
 
 ---
 
-
-## 🤝 Let’s Connect
+## 📬 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-tiryaki/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emir%20T%C4%B1ryaki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emir%20Tiryaki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/emirirrr" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@emirirrr-c13584?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -41,13 +41,14 @@
   </a>
 </p>
 
-📫 **Reach me at:** [info@emirtiryaki.com](mailto:info@emirtiryaki.com)  
-🔗 **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)  
-📂 **All my repos:** [github.com/emirirr](https://github.com/emirirr)
+📫 **E-mail:** [info@emirtiryaki.com](mailto:info@emirtiryaki.com)  
+🌐 **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)  
+💻 **GitHub Repos:** [github.com/emirirr](https://github.com/emirirr)
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=dark" alt="Top Languages" />
 </p>
