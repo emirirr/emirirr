@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm <strong>İsmail Emir Tiryaki</strong></h1>
-<h3 align="center">iOS · Web · Mobile App Developer</h3>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 ---
 
