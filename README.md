@@ -83,14 +83,6 @@ const emirTiryaki = {
 
 
 
----
 
-### 🚀 Son Söz
 
-> "Teknoloji sadece araç değil, hayatı değiştiren bir güçtür. Ben bu gücü kullanarak insanların hayatını kolaylaştıran çözümler üretiyorum."
-
-**⭐ Bu profili beğendiyseniz yıldız vermeyi unutmayın!**
-
----
-
-*Son güncelleme: 2024* | *Made with ❤️ by Emir Tiryaki* 
+*Son güncelleme: 2025* | *Made with ❤️ by Emir Tiryaki* 
