@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer & Tech Entrepreneur
 
-sen
+
 ### 🎯 Hakkımda
 
 Merhaba! Ben **Emir Tiryaki**, tutkulu bir Full Stack Developer ve teknoloji girişimcisiyim. 18+ proje geliştirdim ve 4 farklı marka oluşturdum. Modern web teknolojileri konusunda uzmanım ve kullanıcı deneyimini ön planda tutan çözümler üretiyorum.
