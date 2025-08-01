@@ -2,8 +2,7 @@
 
 ## 🚀 Full Stack Developer & Tech Entrepreneur
 
-> "Kod yazmak bir sanattır, her satır bir fırça darbesidir." - Emir Tiryaki
-
+sen
 ### 🎯 Hakkımda
 
 Merhaba! Ben **Emir Tiryaki**, tutkulu bir Full Stack Developer ve teknoloji girişimcisiyim. 18+ proje geliştirdim ve 4 farklı marka oluşturdum. Modern web teknolojileri konusunda uzmanım ve kullanıcı deneyimini ön planda tutan çözümler üretiyorum.
@@ -23,16 +22,16 @@ const emirTiryaki = {
   role: "Full Stack Developer",
   location: "Türkiye",
   
-  frontend: ["React", "TypeScript", "Next.js", "Tailwind CSS", "Shadcn/ui"],
-  backend: ["Node.js", "Python", "PHP", "Express.js", "Django", "Laravel"],
-  mobile: ["React Native", "Flutter"],
-  database: ["MongoDB", "PostgreSQL", "MySQL"],
-  devops: ["Docker", "AWS", "Vercel", "Git", "CI/CD"],
+  frontend: ["React", "TypeScript", "Tailwind CSS", "Shadcn/ui"],
+  backend: ["Node.js", "PHP", "Express.js"],
+  mobile: ["React Native"],
+  database: ["MySQL", "PostgreSQL"],
+  devops: ["Git", "Vercel"],
   
-  interests: ["Web Development", "Mobile Apps", "E-commerce", "AI/ML"],
-  currentlyLearning: ["Advanced React Patterns", "System Design"],
+  interests: ["Web Development", "Mobile Apps", "E-commerce"],
+  currentlyLearning: ["Advanced React", "Mobile Development"],
   
-  funFact: "Günde 8+ saat kod yazıyorum ve hala öğrenmeye devam ediyorum! 🚀"
+  funFact: "Modern teknolojilerle kullanıcı dostu uygulamalar geliştiriyorum! 🚀"
 }
 ```
 
@@ -110,10 +109,10 @@ const emirTiryaki = {
 
 ### 🎯 Şu Anda Üzerinde Çalıştığım
 
-- 🔥 **AI/ML Projeleri** - Yapay zeka entegrasyonu
-- 🚀 **Microservices** - Ölçeklenebilir mimari
-- 📱 **Cross-platform Apps** - React Native & Flutter
-- 🌐 **Web3 Integration** - Blockchain teknolojileri
+- 🚀 **Portfolio Website** - Kişisel web sitesi geliştirme
+- 📱 **Mobil Uygulamalar** - React Native projeleri
+- 🌐 **Web Uygulamaları** - Modern web teknolojileri
+- 🛠️ **Yeni Teknolojiler** - Sürekli öğrenme ve gelişim
 
 ### 📫 İletişim
 
@@ -127,25 +126,23 @@ const emirTiryaki = {
 **📱 WhatsApp**: [+90 543 447 6245](https://wa.me/905434476245)  
 **💬 Telegram**: [@emirirr](https://t.me/emirirr)
 
-### 🎉 Fun Facts
+### 🎉 İlgi Alanlarım
 
-- 🎮 **Oyun**: Valorant oynamayı seviyorum
-- ☕ **İçecek**: Kahve olmadan kod yazamam
-- 🎵 **Müzik**: Lo-fi beats ile kod yazıyorum
-- 📚 **Kitap**: Teknoloji ve felsefe kitapları okuyorum
-- 🌍 **Hedef**: Dünyayı değiştiren uygulamalar geliştirmek
+- 💻 **Kod Yazma** - Yeni teknolojiler öğrenmeyi seviyorum
+- 📚 **Öğrenme** - Sürekli kendimi geliştiriyorum
+- 🚀 **Proje Geliştirme** - Yaratıcı çözümler üretiyorum
+- 🌟 **İnovasyon** - Modern teknolojileri keşfediyorum
 
-### 📊 Günlük Rutinim
+### 📊 Çalışma Sürecim
 
 ```mermaid
 graph LR
-    A[🌅 Sabah 7:00] --> B[☕ Kahve]
-    B --> C[💻 Kod Yazma]
-    C --> D[🍽️ Öğle Yemeği]
-    D --> E[📱 Mobil Geliştirme]
-    E --> F[🌙 Akşam 23:00]
-    F --> G[📚 Öğrenme]
-    G --> A
+    A[💡 Fikir] --> B[📋 Planlama]
+    B --> C[💻 Geliştirme]
+    C --> D[🧪 Test]
+    D --> E[🚀 Deployment]
+    E --> F[📈 Optimizasyon]
+    F --> A
 ```
 
 ---
