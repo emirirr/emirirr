@@ -24,7 +24,7 @@ const emirTiryaki = {
   
   frontend: ["React", "TypeScript", "Tailwind CSS", "Shadcn/ui"],
   backend: ["Node.js", "PHP", "Express.js"],
-  mobile: ["React Native"],
+  mobile: ["React Native", "Swift", "SwiftUI"],
   database: ["MySQL", "PostgreSQL"],
   devops: ["Git", "Vercel"],
   
@@ -41,38 +41,7 @@ const emirTiryaki = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
 
-### 🎨 Öne Çıkan Projelerim
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Web Uygulamaları</h3>
-      <p align="center">
-        <a href="https://egeateknik.com" target="_blank">
-          <img src="https://img.shields.io/badge/Ege%20Teknik-Web%20App-blue?style=for-the-badge&logo=react" width="200" alt="Ege Teknik"/>
-        </a>
-        <br/>
-        <a href="https://cebinde.kodlasa.com" target="_blank">
-          <img src="https://img.shields.io/badge/Cebinde-Mobile%20Payment-green?style=for-the-badge&logo=react" width="200" alt="Cebinde"/>
-        </a>
-        <br/>
-        <a href="https://fishero.kodlasa.com" target="_blank">
-          <img src="https://img.shields.io/badge/FishHero-Fishing%20Platform-orange?style=for-the-badge&logo=react" width="200" alt="FishHero"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Mobil Uygulamalar</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ChargeWay-Charging%20App-purple?style=for-the-badge&logo=react" width="200" alt="ChargeWay"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Therapy%20Web-Health%20App-red?style=for-the-badge&logo=react" width="200" alt="Therapy Web"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Klinik%20Takip-Medical%20App-teal?style=for-the-badge&logo=react" width="200" alt="Klinik Takip"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ### 🏆 Yeteneklerim
 
@@ -84,35 +53,22 @@ const emirTiryaki = {
 
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 
 #### Database & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 Proje İstatistiklerim
 
-- **🌐 Web Uygulamaları**: 12 proje
-- **📱 Mobil Uygulamalar**: 4 proje  
-- **🛒 E-ticaret**: 2 proje
-- **🏢 Oluşturulan Markalar**: 4 şirket
-- **👥 Takım Liderliği**: 5+ proje
-- **⏱️ Toplam Deneyim**: 3+ yıl
 
-### 🎯 Şu Anda Üzerinde Çalıştığım
 
-- 🚀 **Portfolio Website** - Kişisel web sitesi geliştirme
-- 📱 **Mobil Uygulamalar** - React Native projeleri
-- 🌐 **Web Uygulamaları** - Modern web teknolojileri
-- 🛠️ **Yeni Teknolojiler** - Sürekli öğrenme ve gelişim
 
 ### 📫 İletişim
 
@@ -123,27 +79,9 @@ const emirTiryaki = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emirtiryaki.com)
 
 **📧 E-posta**: info@emirtiryaki.com  
-**📱 WhatsApp**: [+90 543 447 6245](https://wa.me/905434476245)  
-**💬 Telegram**: [@emirirr](https://t.me/emirirr)
+**📱 WhatsApp**: [+90 543 447 6245](https://wa.me/905434476245)
 
-### 🎉 İlgi Alanlarım
 
-- 💻 **Kod Yazma** - Yeni teknolojiler öğrenmeyi seviyorum
-- 📚 **Öğrenme** - Sürekli kendimi geliştiriyorum
-- 🚀 **Proje Geliştirme** - Yaratıcı çözümler üretiyorum
-- 🌟 **İnovasyon** - Modern teknolojileri keşfediyorum
-
-### 📊 Çalışma Sürecim
-
-```mermaid
-graph LR
-    A[💡 Fikir] --> B[📋 Planlama]
-    B --> C[💻 Geliştirme]
-    C --> D[🧪 Test]
-    D --> E[🚀 Deployment]
-    E --> F[📈 Optimizasyon]
-    F --> A
-```
 
 ---
 
