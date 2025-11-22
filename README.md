@@ -76,5 +76,5 @@ const emirTiryaki = {
 
 ---
 
-*Last updated: 2025* | *Made with ❤️ by Emir Tiryaki*
+*Last updated: 2025* | *Made with  by Emir Tiryaki*
 
