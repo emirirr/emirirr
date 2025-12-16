@@ -27,9 +27,12 @@ Merhaba! Ben Emir. Kullanıcı odaklı çözümler üretmeye odaklanan tutkulu b
 | Marka | Açıklama |
 | :--- | :--- |
 | **Tiryaki Yazılım** | Yazılım geliştirme ve danışmanlık şirketi |
-| **Odak Software** | Endüstriyel yazılım çözümleri (Viyana Merkezli) |
+| **Odak Software** | Endüstriyel yazılım & **SaaS CRM Platformu**  |
 | **Figrinova** | Eğitim teknolojileri girişimi |
 | **Kodlasa** | Kodlama eğitim platformu |
+
+### 🚀 İmza Proje: Odak CRM
+> **Odak Software** bünyesinde geliştirdiğim; Viyana ve Türkiye pazarındaki endüstriyel firmalar için **Çoklu Dil (DE/TR/EN)** destekli, KVKK uyumlu ve bulut tabanlı Müşteri İlişkileri Yönetimi (CRM) platformu.
 
 ---
 
@@ -41,11 +44,11 @@ const emirTiryaki = {
   location: "Turkey 🇹🇷",
   code: ["TypeScript", "JavaScript", "PHP", "Swift"],
   technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Shadcn/ui"],
     backend: ["Node.js", "Express", "Laravel"],
     mobile: ["React Native", "SwiftUI"],
-    database: ["PostgreSQL", "MySQL", "MongoDB"]
+    database: ["PostgreSQL", "MySQL", "Prisma"]
   },
-  currentFocus: "Scaling my startups & Advanced Architecture",
+  currentFocus: "Building Odak CRM Architecture & Scaling SaaS Products",
   funFact: "I turn coffee into scalable code! ☕"
 };
