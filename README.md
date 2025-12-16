@@ -16,17 +16,6 @@
 
 ---
 
-### 🚀 Şu An Ne Üzerinde Çalışıyorum?
-
-**Odak CRM (WIP)**
-> Avusturya/Viyana merkezli bir müşteri ihtiyacından doğan, KOBİ'ler için geliştirdiğim bir CRM projesi. Şu an aktif geliştirme aşamasındayım.
->
-> **Odaklandığım Konular:**
-> * Next.js App Router ile performanslı bir dashboard yapısı kurmak.
-> * Role-based (Rol tabanlı) yetkilendirme mimarisini oturtmak.
-> * Çoklu dil (TR/DE) altyapısını yönetmek.
-
----
 
 ### 🏢 Girişimlerim & Projelerim
 
