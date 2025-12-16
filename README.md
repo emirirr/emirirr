@@ -14,6 +14,11 @@
   <a href="mailto:info@emirtiryaki.com">📧 Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirirr&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/public-repos/emirirr?style=flat-square&color=58A6FF&label=Public+Repos" alt="Public Repos" />
+</p>
+
 </div>
 
 ---
@@ -27,7 +32,7 @@ Merhaba! Ben Emir. Kullanıcı odaklı çözümler üretmeye odaklanan tutkulu b
 | Marka | Açıklama |
 | :--- | :--- |
 | **Tiryaki Yazılım** | Yazılım geliştirme ve danışmanlık şirketi |
-| **Odak Software** | Endüstriyel yazılım & **SaaS CRM Platformu**  |
+| **Odak Software** | Endüstriyel yazılım & **SaaS CRM Platformu** (Viyana) |
 | **Figrinova** | Eğitim teknolojileri girişimi |
 | **Kodlasa** | Kodlama eğitim platformu |
 
