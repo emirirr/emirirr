@@ -26,8 +26,8 @@ Dijital dünyada iz bırakan, ölçeklenebilir ve kullanıcı odaklı çözümle
 
 ### 📊 GitHub İstatistiklerim
 
-![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail-emir-tiryaki&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-emir-tiryaki&layout=compact&theme=tokyonight)
+![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=tokyonight)
 
 ---
 
