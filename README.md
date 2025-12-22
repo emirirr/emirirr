@@ -1,42 +1,40 @@
-# Selam! Ben İsmail Emir Tiryaki 
+# Hi there! I'm İsmail Emir Tiryaki 👋
 
 ### Full Stack Developer | Entrepreneur | UI/UX Enthusiast
 
-Dijital dünyada iz bırakan, ölçeklenebilir ve kullanıcı odaklı çözümler geliştirmeyi hedefleyen bir yazılım tutkunuyum. Hem kurumsal şirketlere yazılım mimarileri kuruyor hem de kendi girişimlerim üzerinden inovatif projeler geliştiriyorum.
+I am a software enthusiast focused on developing scalable, user-centric solutions that leave a digital footprint. I build software architectures for corporate companies and develop innovative projects through my own ventures.
 
 ---
 
-###  Nelerle Uğraşıyorum?
+### 🚀 Current Focus
 
--  **Kodlasa.com**: Kurucusu olduğum yazılım ajansında kurumsal firmalara modern web ve mobil çözümler sunuyorum.
--  **Odak Software**: Şirket içi süreçleri dijitalleştiren kapsamlı bir CRM platformu üzerinde çalışıyorum.
--  **Tiryaki Yazılım**: Freelance dünyasında raket sporlarından teknik servislere kadar geniş bir yelpazede projeler geliştiriyorum.
+- 🏢 **Kodlasa.com**: As the founder of my software agency, I provide modern web and mobile solutions for corporate firms.
+- 🛠 **Odak Software**: Developing a comprehensive CRM platform designed to digitalize internal business processes.
+- 📱 **Tiryaki Yazılım**: Delivering diverse freelance projects ranging from racket sports platforms to technical service automations.
 
 ---
 
-###  Teknoloji Çantam (Tech Stack)
+### 💻 Tech Stack
 
 - **Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+)
 - **Mobile:** iOS (Swift), React Native
 - **Backend:** Node.js, Express, Firebase
-- **Tasarım:** Figma, Adobe XD, UI/UX Tasarım Prensipleri
-- **Diğer:** Git, GitHub, SEO, Social Media Content Strategy
+- **Design:** Figma, Adobe XD, UI/UX Design Principles
+- **Others:** Git, GitHub, SEO, Social Media Content Strategy
 
 ---
 
-###  GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 ![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=tokyonight)
 
 ---
 
-###  Benimle İletişime Geç
+### 📫 Connect with Me
 
--  **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)
--  **LinkedIn:** [linkedin.com/in/emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/)
--  **E-mail:** [info@emirtiryaki.com]
+- 🌍 **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)
+- 💼 **LinkedIn:** [linkedin.com/in/emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/)
+- ✉️ **E-mail:** [info@emirtiryaki.com](mailto:info@emirtiryaki.com)
 
 ---
-
-*"Yazılım, hayalleri koda dökme sanatıdır."*
