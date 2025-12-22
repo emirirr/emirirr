@@ -1,4 +1,4 @@
-# Selam! Ben İsmail Emir Tiryaki 👋
+# Selam! Ben İsmail Emir Tiryaki 
 
 ### Full Stack Developer | Entrepreneur | UI/UX Enthusiast
 
@@ -6,15 +6,15 @@ Dijital dünyada iz bırakan, ölçeklenebilir ve kullanıcı odaklı çözümle
 
 ---
 
-### 🚀 Nelerle Uğraşıyorum?
+###  Nelerle Uğraşıyorum?
 
-- 🏢 **Kodlasa.com**: Kurucusu olduğum yazılım ajansında kurumsal firmalara modern web ve mobil çözümler sunuyorum.
-- 🛠 **Odak Software**: Şirket içi süreçleri dijitalleştiren kapsamlı bir CRM platformu üzerinde çalışıyorum.
-- 📱 **Tiryaki Yazılım**: Freelance dünyasında raket sporlarından teknik servislere kadar geniş bir yelpazede projeler geliştiriyorum.
+-  **Kodlasa.com**: Kurucusu olduğum yazılım ajansında kurumsal firmalara modern web ve mobil çözümler sunuyorum.
+-  **Odak Software**: Şirket içi süreçleri dijitalleştiren kapsamlı bir CRM platformu üzerinde çalışıyorum.
+-  **Tiryaki Yazılım**: Freelance dünyasında raket sporlarından teknik servislere kadar geniş bir yelpazede projeler geliştiriyorum.
 
 ---
 
-### 💻 Teknoloji Çantam (Tech Stack)
+###  Teknoloji Çantam (Tech Stack)
 
 - **Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+)
 - **Mobile:** iOS (Swift), React Native
@@ -24,19 +24,18 @@ Dijital dünyada iz bırakan, ölçeklenebilir ve kullanıcı odaklı çözümle
 
 ---
 
-### 📊 GitHub İstatistiklerim
+###  GitHub İstatistiklerim
 
 ![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Benimle İletişime Geç
+###  Benimle İletişime Geç
 
-- 🌍 **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)
-- 💼 **LinkedIn:** [linkedin.com/in/emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/)
-- 🐦 **X/Twitter:** [@emir_tiryaki](https://twitter.com/emir_tiryaki)
-- ✉️ **E-mail:** [info@emirtiryaki.com]
+-  **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)
+-  **LinkedIn:** [linkedin.com/in/emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/)
+-  **E-mail:** [info@emirtiryaki.com]
 
 ---
 
