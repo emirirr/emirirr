@@ -34,9 +34,9 @@ Dijital dünyada iz bırakan, ölçeklenebilir ve kullanıcı odaklı çözümle
 ### 📫 Benimle İletişime Geç
 
 - 🌍 **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)
-- 💼 **LinkedIn:** [linkedin.com/in/ismail-emir-tiryaki](https://linkedin.com/in/ismail-emir-tiryaki)
+- 💼 **LinkedIn:** [linkedin.com/in/emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/)
 - 🐦 **X/Twitter:** [@emir_tiryaki](https://twitter.com/emir_tiryaki)
-- ✉️ **E-mail:** [E-posta Adresin buraya]
+- ✉️ **E-mail:** [info@emirtiryaki.com]
 
 ---
 
