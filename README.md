@@ -1,52 +1,43 @@
-<div align="center">
+# Selam! Ben İsmail Emir Tiryaki 👋
 
-# Emir Tiryaki
+### Full Stack Developer | Entrepreneur | UI/UX Enthusiast
 
-**Full Stack Developer**
-
-> Kullanıcı deneyimine önem veren, modern web ve mobil teknolojileriyle çalışan bir geliştiriciyim. Kendi girişimlerim ve projelerim üzerinden gerçek dünya problemlerine çözümler üretiyorum.
-
-<p align="center">
-  <a href="https://emirtiryaki.com">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/emir-tiryaki/">👔 LinkedIn</a> •
-  <a href="mailto:info@emirtiryaki.com">📧 Email</a>
-</p>
-
-</div>
+Dijital dünyada iz bırakan, ölçeklenebilir ve kullanıcı odaklı çözümler geliştirmeyi hedefleyen bir yazılım tutkunuyum. Hem kurumsal şirketlere yazılım mimarileri kuruyor hem de kendi girişimlerim üzerinden inovatif projeler geliştiriyorum.
 
 ---
 
+### 🚀 Nelerle Uğraşıyorum?
 
-### 🏢 Girişimlerim & Projelerim
-
-Kendi projelerimi geliştirmeyi ve ürünleştirmeyi seviyorum:
-
-* **Tiryaki Yazılım:** Freelance ve kurumsal işlerimi yürüttüğüm şahıs şirketim.
-* **Odak Software:** Viyana odaklı yazılım çözümleri.
-* **Figrinova & Kodlasa:** Eğitim teknolojileri üzerine denemelerim.
+- 🏢 **Kodlasa.com**: Kurucusu olduğum yazılım ajansında kurumsal firmalara modern web ve mobil çözümler sunuyorum.
+- 🛠 **Odak Software**: Şirket içi süreçleri dijitalleştiren kapsamlı bir CRM platformu üzerinde çalışıyorum.
+- 📱 **Tiryaki Yazılım**: Freelance dünyasında raket sporlarından teknik servislere kadar geniş bir yelpazede projeler geliştiriyorum.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 💻 Teknoloji Çantam (Tech Stack)
 
-Geliştirme sürecimde aktif olarak kullandığım araçlar:
-
-| Alan | Teknolojiler |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
-| **Backend** | Node.js, Express.js, PHP |
-| **Mobile** | React Native, SwiftUI (Learning) |
-| **Veritabanı** | PostgreSQL, MySQL |
+- **Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+)
+- **Mobile:** iOS (Swift), React Native
+- **Backend:** Node.js, Express, Firebase
+- **Tasarım:** Figma, Adobe XD, UI/UX Tasarım Prensipleri
+- **Diğer:** Git, GitHub, SEO, Social Media Content Strategy
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333" height="140" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" height="140" alt="languages" />
-</div>
+![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail-emir-tiryaki&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-emir-tiryaki&layout=compact&theme=tokyonight)
 
-<div align="center">
-  <sub>2025 © Emir Tiryaki</sub>
-</div>
+---
+
+### 📫 Benimle İletişime Geç
+
+- 🌍 **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ismail-emir-tiryaki](https://linkedin.com/in/ismail-emir-tiryaki)
+- 🐦 **X/Twitter:** [@emir_tiryaki](https://twitter.com/emir_tiryaki)
+- ✉️ **E-mail:** [E-posta Adresin buraya]
+
+---
+
+*"Yazılım, hayalleri koda dökme sanatıdır."*
