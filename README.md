@@ -1,74 +1,96 @@
-<!-- Bu dosyayı GitHub profil reposuna (emirirr/emirirr) README.md olarak kopyalayabilirsiniz. -->
+# 👋 Merhaba, Ben Emir Tiryaki!
 
-<div align="center">
+## 🚀 Full Stack Developer & Tech Entrepreneur
 
-# Emir Tiryaki
 
-**Full Stack Developer** · Web · Mobil · Ürün
+### 🎯 Hakkımda
 
-[Portföy](https://emirtiryaki.com) · [Projeler](https://emirtiryaki.com/projects) · [LinkedIn](https://www.linkedin.com/in/emir-tiryaki/)
+Merhaba! Ben **Emir Tiryaki**, tutkulu bir Full Stack Developer ve teknoloji girişimcisiyim. 18+ proje geliştirdim ve 4 farklı marka oluşturdum. Modern web teknolojileri konusunda uzmanım ve kullanıcı deneyimini ön planda tutan çözümler üretiyorum.
 
-</div>
+### 🏢 Oluşturduğum Markalar
 
----
+- **Tiryaki Yazılım** - Yazılım geliştirme şirketi
+- **Odak Software** - Endüstriyel yazılım çözümleri  
+- **Figrinova** - Eğitim teknolojileri
+- **Kodlasa** - Kodlama eğitimi platformu
 
-Merhaba, ben **Emir Tiryaki**. Modern web ve mobil ürünler geliştiriyor; kullanıcı deneyimini ve sürdürülebilir mimariyi ön planda tutuyorum. Detaylı portföy, canlı GitHub akışı ve iletişim için **[emirtiryaki.com](https://emirtiryaki.com)** üzerinden devam edebilirsiniz.
-
-### Markalar
-
-| Marka | Alan |
-|--------|------|
-| **Tiryaki Yazılım** | Yazılım geliştirme |
-| **Odak Software** | Endüstriyel yazılım |
-| **Figrinova** | Eğitim teknolojileri |
-| **Kodlasa** | Kodlama eğitimi |
-
-### Stack (site ile uyumlu özet)
+### 🛠️ Teknoloji Stack'im
 
 ```typescript
-const profile = {
-  frontend: ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Next.js"],
-  backend: ["Node.js", "Express", "PHP"],
-  mobile: ["React Native", "Expo", "Swift", "SwiftUI"],
-  data: ["PostgreSQL", "MySQL"],
-  infra: ["Git", "Vercel", "Docker", "AWS"],
-};
+const emirTiryaki = {
+  name: "Emir Tiryaki",
+  role: "Full Stack Developer",
+  location: "Türkiye",
+  
+  frontend: ["React", "TypeScript", "Tailwind CSS", "Shadcn/ui"],
+  backend: ["Node.js", "PHP", "Express.js"],
+  mobile: ["React Native", "Swift", "SwiftUI"],
+  database: ["MySQL", "PostgreSQL"],
+  devops: ["Git", "Vercel"],
+  
+  interests: ["Web Development", "Mobile Apps", "E-commerce"],
+  currentlyLearning: ["Advanced React", "Mobile Development"],
+  
+  funFact: "Modern teknolojilerle kullanıcı dostu uygulamalar geliştiriyorum! 🚀"
+}
 ```
 
-### GitHub istatistikleri
+### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=12"
-    alt="GitHub istatistikleri"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12"
-    alt="En çok kullanılan diller"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF)
 
-### İletişim
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
 
-<p align="center">
-  <a href="https://emirtiryaki.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF&labelColor=161B22" alt="Portfolio" /></a>
-  <a href="https://emirtiryaki.com/projects"><img src="https://img.shields.io/badge/Projeler-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22" alt="Projeler" /></a>
-  <a href="mailto:info@emirtiryaki.com"><img src="https://img.shields.io/badge/E--posta-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=161B22" alt="E-posta" /></a>
-  <a href="https://www.linkedin.com/in/emir-tiryaki/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/emirscode"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF&labelColor=161B22" alt="Instagram" /></a>
-  <a href="https://youtube.com/@emirtiryaki"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=58A6FF&labelColor=161B22" alt="YouTube" /></a>
-  <a href="https://wa.me/905434476245"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=58A6FF&labelColor=161B22" alt="WhatsApp" /></a>
-</p>
+
+
+### 🏆 Yeteneklerim
+
+#### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+
+#### Database & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+
+### 📫 İletişim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-tiryaki/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emirirr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emirscode)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@emirtiryaki)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emirtiryaki.com)
+
+**📧 E-posta**: info@emirtiryaki.com  
+**📱 WhatsApp**: [+90 543 447 6245](https://wa.me/905434476245)
+
+
 
 ---
 
-<div align="center">
+### 🚀 Son Söz
 
-> Teknoloji sadece araç değil, hayatı değiştiren bir güçtür.  
-> Bu gücü, insanların hayatını kolaylaştıran çözümler üretmek için kullanıyorum.
+> "Teknoloji sadece araç değil, hayatı değiştiren bir güçtür. Ben bu gücü kullanarak insanların hayatını kolaylaştıran çözümler üretiyorum."
 
-*Made with care · [emirtiryaki.com](https://emirtiryaki.com)*
+**⭐ Bu profili beğendiyseniz yıldız vermeyi unutmayın!**
 
-</div>
+---
+
+*Son güncelleme: 2024* | *Made with ❤️ by Emir Tiryaki* 
