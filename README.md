@@ -1,40 +1,74 @@
-# Hi there! I'm İsmail Emir Tiryaki 👋
+<!-- Bu dosyayı GitHub profil reposuna (emirirr/emirirr) README.md olarak kopyalayabilirsiniz. -->
 
-### Full Stack Developer | Entrepreneur | UI/UX Enthusiast
+<div align="center">
 
-I am a software enthusiast focused on developing scalable, user-centric solutions that leave a digital footprint. I build software architectures for corporate companies and develop innovative projects through my own ventures.
+# Emir Tiryaki
 
----
+**Full Stack Developer** · Web · Mobil · Ürün
 
-### 🚀 Current Focus
+[Portföy](https://emirtiryaki.com) · [Projeler](https://emirtiryaki.com/projects) · [LinkedIn](https://www.linkedin.com/in/emir-tiryaki/)
 
-- 🏢 **Kodlasa.com**: As the founder of my software agency, I provide modern web and mobile solutions for corporate firms.
-- 🛠 **Odak Software**: Developing a comprehensive CRM platform designed to digitalize internal business processes.
-- 📱 **Tiryaki Yazılım**: Delivering diverse freelance projects ranging from racket sports platforms to technical service automations.
+</div>
 
 ---
 
-### 💻 Tech Stack
+Merhaba, ben **Emir Tiryaki**. Modern web ve mobil ürünler geliştiriyor; kullanıcı deneyimini ve sürdürülebilir mimariyi ön planda tutuyorum. Detaylı portföy, canlı GitHub akışı ve iletişim için **[emirtiryaki.com](https://emirtiryaki.com)** üzerinden devam edebilirsiniz.
 
-- **Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+)
-- **Mobile:** iOS (Swift), React Native
-- **Backend:** Node.js, Express, Firebase
-- **Design:** Figma, Adobe XD, UI/UX Design Principles
-- **Others:** Git, GitHub, SEO, Social Media Content Strategy
+### Markalar
+
+| Marka | Alan |
+|--------|------|
+| **Tiryaki Yazılım** | Yazılım geliştirme |
+| **Odak Software** | Endüstriyel yazılım |
+| **Figrinova** | Eğitim teknolojileri |
+| **Kodlasa** | Kodlama eğitimi |
+
+### Stack (site ile uyumlu özet)
+
+```typescript
+const profile = {
+  frontend: ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Next.js"],
+  backend: ["Node.js", "Express", "PHP"],
+  mobile: ["React Native", "Expo", "Swift", "SwiftUI"],
+  data: ["PostgreSQL", "MySQL"],
+  infra: ["Git", "Vercel", "Docker", "AWS"],
+};
+```
+
+### GitHub istatistikleri
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=12"
+    alt="GitHub istatistikleri"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12"
+    alt="En çok kullanılan diller"
+  />
+</p>
+
+### İletişim
+
+<p align="center">
+  <a href="https://emirtiryaki.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF&labelColor=161B22" alt="Portfolio" /></a>
+  <a href="https://emirtiryaki.com/projects"><img src="https://img.shields.io/badge/Projeler-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22" alt="Projeler" /></a>
+  <a href="mailto:info@emirtiryaki.com"><img src="https://img.shields.io/badge/E--posta-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=161B22" alt="E-posta" /></a>
+  <a href="https://www.linkedin.com/in/emir-tiryaki/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/emirscode"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF&labelColor=161B22" alt="Instagram" /></a>
+  <a href="https://youtube.com/@emirtiryaki"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=58A6FF&labelColor=161B22" alt="YouTube" /></a>
+  <a href="https://wa.me/905434476245"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=58A6FF&labelColor=161B22" alt="WhatsApp" /></a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=tokyonight)
+> Teknoloji sadece araç değil, hayatı değiştiren bir güçtür.  
+> Bu gücü, insanların hayatını kolaylaştıran çözümler üretmek için kullanıyorum.
 
----
+*Made with care · [emirtiryaki.com](https://emirtiryaki.com)*
 
-### 📫 Connect with Me
-
-- 🌍 **Portfolio:** [emirtiryaki.com](https://emirtiryaki.com)
-- 💼 **LinkedIn:** [linkedin.com/in/emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/)
-- ✉️ **E-mail:** [info@emirtiryaki.com](mailto:info@emirtiryaki.com)
-
----
+</div>
