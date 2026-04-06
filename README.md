@@ -40,16 +40,14 @@
 
 ### GitHub özeti
 
-<img height="170" alt="GitHub istatistikleri" src="https://github-readme-stats.vercel.app/api?username=emirirr&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&rank_icon=github&include_all_commits=true" />
-<img height="170" alt="En çok kullanılan diller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirirr&layout=compact&theme=tokyonight&hide_border=true&locale=tr&langs_count=8&size_weight=0.5&count_weight=0.5" />
+*GitHub’ın resmi `github-readme-stats.vercel.app` dağıtımı şu an kapalı olduğu için aşağıdaki kartlar topluluk aynası ve güncel streak adresi kullanıyor.*
+
+<img height="170" alt="GitHub istatistikleri" src="https://readmestats.999857.xyz/api?username=emirirr&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&rank_icon=github&include_all_commits=true" />
+<img height="170" alt="En çok kullanılan diller" src="https://readmestats.999857.xyz/api/top-langs/?username=emirirr&layout=compact&theme=tokyonight&hide_border=true&locale=tr&langs_count=8&size_weight=0.5&count_weight=0.5" />
 
 <br/>
 
-<img width="90%" alt="Günlük gönderim serisi" src="https://github-readme-streak-stats.demolab.com/?user=emirirr&theme=tokyonight&hide_border=true&locale=tr" />
-
-<br/><br/>
-
-<img width="98%" alt="GitHub rozetleri" src="https://github-profile-trophy.vercel.app/?username=emirirr&theme=darkhub&no-frame=true&column=7&margin-w=4&margin-h=4" />
+<img width="90%" alt="Günlük gönderim serisi" src="https://streak-stats.demolab.com/?user=emirirr&theme=tokyonight&hide_border=true&locale=tr" />
 
 <br/>
 
