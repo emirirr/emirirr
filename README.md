@@ -1,10 +1,20 @@
 # Emir Tiryaki
 
-**Full Stack Developer** · İstanbul · Uzaktan ve hibrit çalışma modeli
+**Full Stack Software Developer** · İstanbul · Uzaktan ve hibrit çalışma modeli
 
-Kullanıcı arayüzleri, API tasarımı ve ölçeklenebilir sunucu tarafı çözümleri ile uçtan uca yazılım geliştirmesi yürütmektedir.
+Web ve mobil istemcilerden API ve veri katmanına, dağıtım ve gözlemlenebilirliğe kadar ürünün teknik yığınını uçtan uca tasarlayıp geliştirir. Arayüz, iş mantığı, kalıcı veri ve entegrasyonların aynı mimari çizgide ilerlemesine öncelik verir.
+
+**Ana yığın:** TypeScript · React / Next.js · Node.js · PostgreSQL · Docker · AWS  
+**Mobil:** Swift / SwiftUI · React Native / Expo · Firebase
 
 **Web sitesi:** [emirtiryaki.com](https://emirtiryaki.com) · **Proje listesi:** [emirtiryaki.com/projects](https://emirtiryaki.com/projects)
+
+## Uçtan uca sorumluluk alanları
+
+- **İstemci:** SPA ve SSR (React, Next.js, Vite), bileşen mimarisi, durum yönetimi, erişilebilir ve performanslı arayüzler  
+- **Sunucu:** REST ve GraphQL API’ler, Node.js ve Python ekosistemleri (Express, FastAPI), kimlik ve oturum akışları  
+- **Veri:** İlişkisel ve belge tabanlı modeller (PostgreSQL, MongoDB), ORM (Prisma), önbellek (Redis), BaaS (Supabase)  
+- **Operasyon:** Konteynerleştirme (Docker), bulut (AWS), CI/CD, temel altyapı kodu (Terraform), Linux ortamları  
 
 ## İletişim
 
@@ -38,27 +48,25 @@ Tüm projeler ve sınıflandırma: [emirtiryaki.com/projects](https://emirtiryak
 - [Odak Software](https://odaksoftware.com) — CRM; müşteri, satış ve süreç yönetimi
 - [Kodlasa](https://kodlasa.com) — Eğitim ve geliştirme platformu
 
-## Yetkinlikler
+## Yetkinlikler (detay)
 
-**Ön yüz:** React, Vue.js, TypeScript, Next.js, Tailwind CSS, Vite
+**Ön yüz:** React, Vue.js, TypeScript, Next.js, Tailwind CSS, Vite  
 
-**Arka uç:** Node.js, Python, Express, FastAPI, GraphQL, REST
+**Arka uç:** Node.js, Python, Express, FastAPI, GraphQL, REST  
 
-**Veri:** PostgreSQL, MongoDB, Redis, Prisma, Supabase
+**Veri:** PostgreSQL, MongoDB, Redis, Prisma, Supabase  
 
-**DevOps ve bulut:** Docker, AWS, Kubernetes, CI/CD, Terraform, Linux
+**DevOps ve bulut:** Docker, AWS, Kubernetes, CI/CD, Terraform, Linux  
 
-**Araçlar:** Git, GitHub Actions, Jest, Figma, Postman
+**Kalite ve araçlar:** Git, GitHub Actions, Jest, Figma, Postman  
 
-**Performans:** Web Vitals, önbellekleme, CDN, paket analizi
+**Performans:** Web Vitals, önbellekleme, CDN, paket analizi  
 
-**Ek vurgu:** React, Node.js, TypeScript, Swift, PostgreSQL, Docker, AWS
-
-**Deneyim göstergeleri:** 5+ yıl · 50+ tamamlanan proje · 25+ teknoloji
+**Özet:** 5+ yıl · 50+ tamamlanan proje · 25+ teknoloji  
 
 ## Portföy web sitesi deposu
 
-Yığın: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router, Framer Motion. Açık ve koyu tema, proje vitrini, öne çıkan projeler bölümü, markalar ve iletişim formu içerir.
+Bu depo, portföyün kendisi: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router, Framer Motion; açık/koyu tema, proje vitrini, öne çıkanlar ve iletişim formu.
 
 ```bash
 git clone https://github.com/emirirr/emirtiryaki.com.git
