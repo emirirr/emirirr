@@ -11,7 +11,6 @@ Merhaba! Ben **Emir Tiryaki**, tutkulu bir Full Stack Developer ve teknoloji gir
 
 - **Tiryaki Yazılım** - Yazılım geliştirme şirketi
 - **Odak Software** - Endüstriyel yazılım çözümleri  
-- **Figrinova** - Eğitim teknolojileri
 - **Kodlasa** - Kodlama eğitimi platformu
 
 ### 🛠️ Teknoloji Stack'im
