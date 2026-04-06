@@ -1,5 +1,6 @@
 # Emir Tiryaki
 
+**GitHub:** [@emirirr](https://github.com/emirirr)  
 **Full Stack Software Developer** · İstanbul · Uzaktan ve hibrit çalışma modeli
 
 <div align="center">
