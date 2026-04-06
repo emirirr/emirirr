@@ -1,80 +1,68 @@
 # Emir Tiryaki
 
-**Full Stack Developer** · İstanbul · Uzaktan ve hibrit iş birlikleri
+**Full Stack Developer** · İstanbul · Uzaktan ve hibrit çalışma modeli
 
-Ürün odaklı arayüzler, net API sözleşmeleri ve ölçeklenebilir backend ile uçtan uca dijital deneyimler inşa ediyorum. Her piksel ve her endpoint birbirini tamamlasın diye tasarlarım.
+Kullanıcı arayüzleri, API tasarımı ve ölçeklenebilir sunucu tarafı çözümleri ile uçtan uca yazılım geliştirmesi yürütmektedir.
 
-[**emirtiryaki.com**](https://emirtiryaki.com) · [**Tüm projeler**](https://emirtiryaki.com/projects)
-
----
+**Web sitesi:** [emirtiryaki.com](https://emirtiryaki.com) · **Proje listesi:** [emirtiryaki.com/projects](https://emirtiryaki.com/projects)
 
 ## İletişim
 
-| | |
-|---|---|
+| Alan | Bilgi |
+|------|--------|
 | E-posta | [info@emirtiryaki.com](mailto:info@emirtiryaki.com) |
-| Telefon / WhatsApp | +90 543 447 6245 · [WhatsApp](https://wa.me/905434476245) |
+| Telefon | +90 543 447 6245 |
+| WhatsApp | [wa.me/905434476245](https://wa.me/905434476245) |
 | Telegram | [@emirirr](https://t.me/emirirr) |
-| LinkedIn | [emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/) |
-| GitHub | [@emirirr](https://github.com/emirirr) |
+| LinkedIn | [linkedin.com/in/emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/) |
+| GitHub | [github.com/emirirr](https://github.com/emirirr) |
 | Instagram | [@emirscode](https://instagram.com/emirscode) |
 | YouTube | [@emirtiryaki](https://youtube.com/@emirtiryaki) |
 
----
+## Seçili projeler
 
-## Öne çıkan projeler
+| Proje | Kısa tanım |
+|--------|------------|
+| [Kortbul — Web Sitesi](https://kortbul.com.tr/) | Kort ve rezervasyon ekosistemine yönelik kurumsal web vitrini |
+| [Kortbul (Expo)](https://github.com/emirirr/kortbul-mobile) | Rezervasyon ve kort süreçleri; Firebase, Clerk, EAS |
+| [Ege Teknik](https://egeateknik.com) | Teknik hizmet ve çözüm sunan işletme için kurumsal web sitesi |
+| [Doctor Site](https://doctor-site-phi.vercel.app/) | Randevu, konsültasyon ve doktor profilleri (Next.js, Prisma) |
+| [Kuta](https://kuta-ten.vercel.app/) | Kurye yönetimi; gerçek zamanlı izleme ve rota |
+| [Odak Software](https://odaksoftware.com) | Kurumsal CRM; müşteri ve satış süreçleri |
 
-Ana sayfadaki vitrin sırasıyla (featured):
-
-| Proje | Özet |
-|--------|------|
-| [**Kortbul — Web Sitesi**](https://kortbul.com.tr/) | Kort / rezervasyon ekosistemi için kurumsal web vitrin |
-| [**Kortbul (Expo)**](https://github.com/emirirr/kortbul-mobile) | Rezervasyon ve kort akışları; Firebase, Clerk, EAS |
-| [**Ege Teknik**](https://egeateknik.com) | Teknik çözümler sunan firma için modern, mobil uyumlu site |
-| [**Doctor Site**](https://doctor-site-phi.vercel.app/) | Randevu, konsültasyon ve doktor profilleri (Next.js, Prisma) |
-| [**Kuta**](https://kuta-ten.vercel.app/) | Kurye yönetimi; gerçek zamanlı takip ve rota |
-| [**Odak Software**](https://odaksoftware.com) | Kurumsal CRM; müşteri ve satış süreçleri |
-
-Tam liste ve filtreler: **[emirtiryaki.com/projects](https://emirtiryaki.com/projects)**
-
----
+Tüm projeler ve sınıflandırma: [emirtiryaki.com/projects](https://emirtiryaki.com/projects)
 
 ## Markalar
 
-- **[Tiryaki Yazılım](https://tiryakiyazilim.com)** — Yazılım geliştirme ve dijital çözümler  
-- **[Odak Software](https://odaksoftware.com)** — CRM; müşteri, satış ve süreç yönetimi  
-- **[Kodlasa](https://kodlasa.com)** — Eğitim ve geliştirme platformu  
+- [Tiryaki Yazılım](https://tiryakiyazilim.com) — Yazılım geliştirme ve dijital çözümler
+- [Odak Software](https://odaksoftware.com) — CRM; müşteri, satış ve süreç yönetimi
+- [Kodlasa](https://kodlasa.com) — Eğitim ve geliştirme platformu
 
----
+## Yetkinlikler
 
-## Yetkinlikler (özet)
+**Ön yüz:** React, Vue.js, TypeScript, Next.js, Tailwind CSS, Vite
 
-Sitedeki “Yetkinlikler” bölümüyle uyumlu:
+**Arka uç:** Node.js, Python, Express, FastAPI, GraphQL, REST
 
-**Frontend:** React, Vue.js, TypeScript, Next.js, Tailwind CSS, Vite  
+**Veri:** PostgreSQL, MongoDB, Redis, Prisma, Supabase
 
-**Backend:** Node.js, Python, Express, FastAPI, GraphQL, REST  
+**DevOps ve bulut:** Docker, AWS, Kubernetes, CI/CD, Terraform, Linux
 
-**Veri:** PostgreSQL, MongoDB, Redis, Prisma, Supabase  
+**Araçlar:** Git, GitHub Actions, Jest, Figma, Postman
 
-**DevOps & Cloud:** Docker, AWS, Kubernetes, CI/CD, Terraform, Linux  
+**Performans:** Web Vitals, önbellekleme, CDN, paket analizi
 
-**Araçlar:** Git, GitHub Actions, Jest, Figma, Postman  
+**Ek vurgu:** React, Node.js, TypeScript, Swift, PostgreSQL, Docker, AWS
 
-**Performans:** Web Vitals, caching, CDN, bundle analizi  
+**Deneyim göstergeleri:** 5+ yıl · 50+ tamamlanan proje · 25+ teknoloji
 
-Hero’da vurgulanan teknolojiler: React, Node.js, TypeScript, Swift, PostgreSQL, Docker, AWS.
+## Portföy web sitesi deposu
 
-**Rakamlar (site metni):** 5+ yıl deneyim · 50+ tamamlanan proje · 25+ teknoloji  
-
----
-
-## Bu portföy sitesi (repo)
-
-React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router, Framer Motion; açık/koyu tema, proje vitrini, sticky scroll öne çıkanlar, marka bölümü ve iletişim formu.
+Yığın: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router, Framer Motion. Açık ve koyu tema, proje vitrini, öne çıkan projeler bölümü, markalar ve iletişim formu içerir.
 
 ```bash
 git clone https://github.com/emirirr/emirtiryaki.com.git
 cd emirtiryaki.com
 npm install
 npm run dev
+```
