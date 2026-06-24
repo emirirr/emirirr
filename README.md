@@ -73,10 +73,10 @@ Web ve mobil istemcilerden API ve veri katmanına, dağıtım ve gözlemlenebili
 
 | Depo | Açıklama |
 |------|-----------|
-| [**emirtiryaki.com**](https://github.com/emirirr/emirtiryaki.com) | Kişisel portföy sitesi (React, Vite, TypeScript) |
-| [**kortbul-mobile**](https://github.com/emirirr/kortbul-mobile) | Kort / rezervasyon — Expo, Firebase, Clerk |
-| [**doctor-site**](https://github.com/emirirr/doctor-site) | Sağlık vitrin ve randevu akışı (Next.js, Prisma) |
-| [**Kuta**](https://github.com/emirirr/Kuta) | Kurye yönetimi ve gerçek zamanlı takip |
+| [**doctor-site**](https://github.com/emirirr/doctor-site) | Sağlık vitrin ve randevu akışı (Next.js, Prisma) · [canlı demo](https://doctor-site-phi.vercel.app/) |
+| [**GosbIK**](https://github.com/emirirr/GosbIK) | Kurumsal native mobil uygulama (React Native, Expo) |
+| [**native-socket-main**](https://github.com/emirirr/native-socket-main) | İnternetsiz yerel ağ mesajlaşma (Android & iOS) |
+| [**OrderTracking**](https://github.com/emirirr/OrderTracking) | Sipariş takip sistemi (React, Vite, Supabase) · [canlı demo](https://order-tracking-brown.vercel.app/) |
 
 [Tüm repolar →](https://github.com/emirirr?tab=repositories)
 
