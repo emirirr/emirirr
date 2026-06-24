@@ -73,7 +73,9 @@ Web ve mobil istemcilerden API ve veri katmanına, dağıtım ve gözlemlenebili
 
 | Depo | Açıklama |
 |------|-----------|
+| [**emirtiryaki.com**](https://github.com/emirirr/emirtiryaki.com) | Kişisel portföy sitesi (React, Vite, TypeScript) · [canlı](https://emirtiryaki.com) |
 | [**doctor-site**](https://github.com/emirirr/doctor-site) | Sağlık vitrin ve randevu akışı (Next.js, Prisma) · [canlı demo](https://doctor-site-phi.vercel.app/) |
+| [**clinical-follow-up**](https://github.com/emirirr/clinical-follow-up) | Rol tabanlı klinik & hasta takip sistemi (React, Firebase) |
 | [**GosbIK**](https://github.com/emirirr/GosbIK) | Kurumsal native mobil uygulama (React Native, Expo) |
 | [**native-socket-main**](https://github.com/emirirr/native-socket-main) | İnternetsiz yerel ağ mesajlaşma (Android & iOS) |
 | [**OrderTracking**](https://github.com/emirirr/OrderTracking) | Sipariş takip sistemi (React, Vite, Supabase) · [canlı demo](https://order-tracking-brown.vercel.app/) |
@@ -98,7 +100,7 @@ Web ve mobil istemcilerden API ve veri katmanına, dağıtım ve gözlemlenebili
 | Proje | Kısa tanım |
 |--------|------------|
 | [Kortbul — Web Sitesi](https://kortbul.com.tr/) | Kort ve rezervasyon ekosistemine yönelik kurumsal web vitrini |
-| [Kortbul (Expo)](https://github.com/emirirr/kortbul-mobile) | Rezervasyon ve kort süreçleri; Firebase, Clerk, EAS |
+| [Kortbul — Mobil](https://kortbul.com.tr/) | Rezervasyon ve kort süreçleri; Expo, Firebase, Clerk, EAS |
 | [Ege Teknik](https://egeateknik.com) | Teknik hizmet ve çözüm sunan işletme için kurumsal web sitesi |
 | [Doctor Site](https://doctor-site-phi.vercel.app/) | Randevu, konsültasyon ve doktor profilleri (Next.js, Prisma) |
 | [Kuta](https://kuta-ten.vercel.app/) | Kurye yönetimi; gerçek zamanlı izleme ve rota |
@@ -130,7 +132,7 @@ Tüm projeler: [emirtiryaki.com/projects](https://emirtiryaki.com/projects)
 
 ## Portföy web sitesi deposu
 
-Bu depo, portföyün kendisi: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router, Framer Motion; açık/koyu tema, proje vitrini, öne çıkanlar ve iletişim formu.
+[**emirtiryaki.com**](https://github.com/emirirr/emirtiryaki.com) portföy sitesinin açık kaynak deposu: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router, Framer Motion; açık/koyu tema, proje vitrini, öne çıkanlar ve iletişim formu.
 
 ```bash
 git clone https://github.com/emirirr/emirtiryaki.com.git
