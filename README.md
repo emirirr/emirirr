@@ -75,7 +75,8 @@ Web ve mobil istemcilerden API ve veri katmanına, dağıtım ve gözlemlenebili
 |------|-----------|
 | [**emirtiryaki.com**](https://github.com/emirirr/emirtiryaki.com) | Kişisel portföy sitesi (React, Vite, TypeScript) · [canlı](https://emirtiryaki.com) |
 | [**doctor-site**](https://github.com/emirirr/doctor-site) | Sağlık vitrin ve randevu akışı (Next.js, Prisma) · [canlı demo](https://doctor-site-phi.vercel.app/) |
-| [**clinical-follow-up**](https://github.com/emirirr/clinical-follow-up) | Rol tabanlı klinik & hasta takip sistemi (React, Firebase) |
+| [**cinecrush**](https://github.com/emirirr/cinecrush) | Film zevkine göre eşleşme ve keşif (React, Firebase) · [canlı demo](https://cinecrush-phi.vercel.app) |
+| [**clinical-follow-up**](https://github.com/emirirr/clinical-follow-up) | Rol tabanlı klinik & hasta takip sistemi (React, Firebase) · [canlı demo](https://clinical-follow-up.vercel.app) |
 | [**GosbIK**](https://github.com/emirirr/GosbIK) | Kurumsal native mobil uygulama (React Native, Expo) |
 | [**native-socket-main**](https://github.com/emirirr/native-socket-main) | İnternetsiz yerel ağ mesajlaşma (Android & iOS) |
 | [**OrderTracking**](https://github.com/emirirr/OrderTracking) | Sipariş takip sistemi (React, Vite, Supabase) · [canlı demo](https://order-tracking-brown.vercel.app/) |
