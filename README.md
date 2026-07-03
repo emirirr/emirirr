@@ -77,6 +77,8 @@ Web ve mobil istemcilerden API ve veri katmanına, dağıtım ve gözlemlenebili
 | [**doctor-site**](https://github.com/emirirr/doctor-site) | Sağlık vitrin ve randevu akışı (Next.js, Prisma) · [canlı demo](https://doctor-site-phi.vercel.app/) |
 | [**cinecrush**](https://github.com/emirirr/cinecrush) | Film zevkine göre eşleşme ve keşif (React, Firebase) · [canlı demo](https://cinecrush-phi.vercel.app) |
 | [**clinical-follow-up**](https://github.com/emirirr/clinical-follow-up) | Rol tabanlı klinik & hasta takip sistemi (React, Firebase) · [canlı demo](https://clinical-follow-up.vercel.app) |
+| [**HistoricMe**](https://github.com/emirirr/HistoricMe) | AI ile fotoğrafını tarihi figürlerle harmanlayan mobil uygulama (React Native, Expo) |
+| [**ConseptPhotos**](https://github.com/emirirr/ConseptPhotos) | Fotoğrafını yapay zekâ ile farklı tarihi dönemlere taşıyan mobil uygulama (React Native, Expo) |
 | [**GosbIK**](https://github.com/emirirr/GosbIK) | Kurumsal native mobil uygulama (React Native, Expo) |
 | [**native-socket-main**](https://github.com/emirirr/native-socket-main) | İnternetsiz yerel ağ mesajlaşma (Android & iOS) |
 | [**OrderTracking**](https://github.com/emirirr/OrderTracking) | Sipariş takip sistemi (React, Vite, Supabase) · [canlı demo](https://order-tracking-brown.vercel.app/) |
