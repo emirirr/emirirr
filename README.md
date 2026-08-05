@@ -30,11 +30,11 @@
 
 <h3><code>emir@github ~ $ ls ./links</code></h3>
 
-<a href="https://emirtiryaki.com"><img src="https://img.shields.io/badge/Portfolio-emirtiryaki.com-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
-<a href="https://emirtiryaki.com/projects"><img src="https://img.shields.io/badge/Projeler-tümü-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Projeler" /></a>
-<a href="https://github.com/emirirr"><img src="https://img.shields.io/badge/GitHub-emirirr-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/emir-tiryaki/"><img src="https://img.shields.io/badge/LinkedIn-emir--tiryaki-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="mailto:info@emirtiryaki.com"><img src="https://img.shields.io/badge/E--posta-info@emirtiryaki.com-ff5f56?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="E-posta" /></a>
+<a href="https://emirtiryaki.com"><img src="https://img.shields.io/badge/portfolio-emirtiryaki.com-161b22?style=flat-square&logo=vercel&logoColor=39d353&labelColor=0d1117" alt="Portfolio" height="26" /></a>
+<a href="https://emirtiryaki.com/projects"><img src="https://img.shields.io/badge/projeler-tümü-161b22?style=flat-square&logo=react&logoColor=39d353&labelColor=0d1117" alt="Projeler" height="26" /></a>
+<a href="https://github.com/emirirr"><img src="https://img.shields.io/badge/github-emirirr-161b22?style=flat-square&logo=github&logoColor=39d353&labelColor=0d1117" alt="GitHub" height="26" /></a>
+<a href="https://www.linkedin.com/in/emir-tiryaki/"><img src="https://img.shields.io/badge/linkedin-emir--tiryaki-161b22?style=flat-square&logo=linkedin&logoColor=39d353&labelColor=0d1117" alt="LinkedIn" height="26" /></a>
+<a href="mailto:info@emirtiryaki.com"><img src="https://img.shields.io/badge/e--posta-info@emirtiryaki.com-161b22?style=flat-square&logo=gmail&logoColor=39d353&labelColor=0d1117" alt="E-posta" height="26" /></a>
 
 <br><br>
 
