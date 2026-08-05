@@ -1,145 +1,43 @@
-# Emir Tiryaki
+<!--
+  Bu profil README'si bir "terminal" olarak tasarlanmıştır.
+  Hareketin tamamı kendi kendine yeten SVG dosyalarının içindedir
+  (GitHub, README'lerden <script> ve inline CSS'i temizler ama
+  <img> ile gömülü SVG'lerin SMIL / CSS animasyonlarını oynatır).
 
-**GitHub:** [@emirirr](https://github.com/emirirr)  
-**Full Stack Software Developer** · İstanbul · Uzaktan ve hibrit çalışma modeli
+  Parçalar:
+    contrib-heatmap.svg  -> canlı katkı takvimi  (GitHub Actions ile her gün yenilenir)
+    info-card.svg        -> neofetch tarzı kart   (statik; scripts/make_info_card.py)
+
+  Yeniden üretmek için:
+    pip install -r scripts/requirements.txt
+    python scripts/fetch_contributions.py && python scripts/render_heatmap_svg.py
+    python scripts/make_info_card.py
+-->
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-emirtiryaki.com-14b8a6?style=for-the-badge)](https://emirtiryaki.com)
-[![Projeler](https://img.shields.io/badge/Tüm_projeler-liste-6366f1?style=for-the-badge)](https://emirtiryaki.com/projects)
-[![GitHub](https://img.shields.io/badge/GitHub-emirirr-181717?style=for-the-badge&logo=github)](https://github.com/emirirr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emir--tiryaki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-tiryaki/)
+<h3><code>emir@github ~ $ ./contributions.sh</code></h3>
 
-<br/>
+<img src="./contrib-heatmap.svg" width="820" alt="GitHub katkı grafiği" />
 
-[![Takipçi](https://img.shields.io/github/followers/emirirr?style=for-the-badge&logo=github&label=Takipçi)](https://github.com/emirirr?tab=followers)
-[![Repo](https://img.shields.io/badge/Repolar-tümü-181717?style=for-the-badge&logo=github)](https://github.com/emirirr?tab=repositories)
-[![Gmail](https://img.shields.io/badge/E--posta-info@emirtiryaki.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@emirtiryaki.com)
+<br><br>
 
-<br/><br/>
+<h3><code>emir@github ~ $ whoami</code></h3>
 
-### Teknoloji yığını
+<img src="./info-card.svg" width="600" alt="neofetch bilgi kartı" />
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<br><br>
 
-<br/>
+<h3><code>emir@github ~ $ ls ./links</code></h3>
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+<a href="https://emirtiryaki.com"><img src="https://img.shields.io/badge/Portfolio-emirtiryaki.com-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="https://emirtiryaki.com/projects"><img src="https://img.shields.io/badge/Projeler-tümü-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Projeler" /></a>
+<a href="https://github.com/emirirr"><img src="https://img.shields.io/badge/GitHub-emirirr-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/emir-tiryaki/"><img src="https://img.shields.io/badge/LinkedIn-emir--tiryaki-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:info@emirtiryaki.com"><img src="https://img.shields.io/badge/E--posta-info@emirtiryaki.com-ff5f56?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="E-posta" /></a>
 
-<br/><br/>
+<br><br>
 
-### GitHub özeti
-
-*GitHub’ın resmi `github-readme-stats.vercel.app` dağıtımı şu an kapalı olduğu için aşağıdaki kartlar topluluk aynası ve güncel streak adresi kullanıyor.*
-
-<img height="170" alt="GitHub istatistikleri" src="https://readmestats.999857.xyz/api?username=emirirr&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&rank_icon=github&include_all_commits=true" />
-<img height="170" alt="En çok kullanılan diller" src="https://readmestats.999857.xyz/api/top-langs/?username=emirirr&layout=compact&theme=tokyonight&hide_border=true&locale=tr&langs_count=8&size_weight=0.5&count_weight=0.5" />
-
-<br/>
-
-<img width="90%" alt="Günlük gönderim serisi" src="https://streak-stats.demolab.com/?user=emirirr&theme=tokyonight&hide_border=true&locale=tr" />
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=emirirr&label=Profil+görüntüleme&color=0e75b6&style=for-the-badge)
+<sub><code>emir@github ~ $</code> <em>katkı grafiği her gün ~06:17 UTC otomatik yenilenir · portre yok, neofetch + canlı heatmap</em></sub>
 
 </div>
-
----
-
-Web ve mobil istemcilerden API ve veri katmanına, dağıtım ve gözlemlenebilirliğe kadar ürünün teknik yığınını uçtan uca tasarlayıp geliştirir. Arayüz, iş mantığı, kalıcı veri ve entegrasyonların aynı mimari çizgide ilerlemesine öncelik verir.
-
-**Ana yığın:** TypeScript · React / Next.js · Node.js · PostgreSQL · Docker · AWS  
-**Mobil:** Swift / SwiftUI · React Native / Expo · Firebase
-
-## Uçtan uca sorumluluk alanları
-
-- **İstemci:** SPA ve SSR (React, Next.js, Vite), bileşen mimarisi, durum yönetimi, erişilebilir ve performanslı arayüzler  
-- **Sunucu:** REST ve GraphQL API’ler, Node.js ve Python ekosistemleri (Express, FastAPI), kimlik ve oturum akışları  
-- **Veri:** İlişkisel ve belge tabanlı modeller (PostgreSQL, MongoDB), ORM (Prisma), önbellek (Redis), BaaS (Supabase)  
-- **Operasyon:** Konteynerleştirme (Docker), bulut (AWS), CI/CD, temel altyapı kodu (Terraform), Linux ortamları  
-
-## Öne çıkan repolar
-
-| Depo | Açıklama |
-|------|-----------|
-| [**emirtiryaki.com**](https://github.com/emirirr/emirtiryaki.com) | Kişisel portföy sitesi (React, Vite, TypeScript) · [canlı](https://emirtiryaki.com) |
-| [**doctor-site**](https://github.com/emirirr/doctor-site) | Sağlık vitrin ve randevu akışı (Next.js, Prisma) · [canlı demo](https://doctor-site-phi.vercel.app/) |
-| [**cinecrush**](https://github.com/emirirr/cinecrush) | Film zevkine göre eşleşme ve keşif (React, Firebase) · [canlı demo](https://cinecrush-phi.vercel.app) |
-| [**clinical-follow-up**](https://github.com/emirirr/clinical-follow-up) | Rol tabanlı klinik & hasta takip sistemi (React, Firebase) · [canlı demo](https://clinical-follow-up.vercel.app) |
-| [**HistoricMe**](https://github.com/emirirr/HistoricMe) | AI ile fotoğrafını tarihi figürlerle harmanlayan mobil uygulama (React Native, Expo) |
-| [**ConseptPhotos**](https://github.com/emirirr/ConseptPhotos) | Fotoğrafını yapay zekâ ile farklı tarihi dönemlere taşıyan mobil uygulama (React Native, Expo) |
-| [**GosbIK**](https://github.com/emirirr/GosbIK) | Kurumsal native mobil uygulama (React Native, Expo) |
-| [**native-socket-main**](https://github.com/emirirr/native-socket-main) | İnternetsiz yerel ağ mesajlaşma (Android & iOS) |
-| [**OrderTracking**](https://github.com/emirirr/OrderTracking) | Sipariş takip sistemi (React, Vite, Supabase) · [canlı demo](https://order-tracking-brown.vercel.app/) |
-
-[Tüm repolar →](https://github.com/emirirr?tab=repositories)
-
-## İletişim
-
-| Alan | Bilgi |
-|------|--------|
-| E-posta | [info@emirtiryaki.com](mailto:info@emirtiryaki.com) |
-| Telefon | +90 543 447 6245 |
-| WhatsApp | [wa.me/905434476245](https://wa.me/905434476245) |
-| Telegram | [@emirirr](https://t.me/emirirr) |
-| LinkedIn | [linkedin.com/in/emir-tiryaki](https://www.linkedin.com/in/emir-tiryaki/) |
-| GitHub | [github.com/emirirr](https://github.com/emirirr) |
-| Instagram | [@emirscode](https://instagram.com/emirscode) |
-| YouTube | [@emirtiryaki](https://youtube.com/@emirtiryaki) |
-
-## Seçili projeler (canlı)
-
-| Proje | Kısa tanım |
-|--------|------------|
-| [Kortbul — Web Sitesi](https://kortbul.com.tr/) | Kort ve rezervasyon ekosistemine yönelik kurumsal web vitrini |
-| [Kortbul — Mobil](https://kortbul.com.tr/) | Rezervasyon ve kort süreçleri; Expo, Firebase, Clerk, EAS |
-| [Ege Teknik](https://egeateknik.com) | Teknik hizmet ve çözüm sunan işletme için kurumsal web sitesi |
-| [Doctor Site](https://doctor-site-phi.vercel.app/) | Randevu, konsültasyon ve doktor profilleri (Next.js, Prisma) |
-| [Kuta](https://kuta-ten.vercel.app/) | Kurye yönetimi; gerçek zamanlı izleme ve rota |
-| [Odak Software](https://odaksoftware.com) | Kurumsal CRM; müşteri ve satış süreçleri |
-
-Tüm projeler: [emirtiryaki.com/projects](https://emirtiryaki.com/projects)
-
-## Markalar
-
-- [Tiryaki Yazılım](https://tiryakiyazilim.com) — Yazılım geliştirme ve dijital çözümler
-- [Odak Software](https://odaksoftware.com) — CRM; müşteri, satış ve süreç yönetimi
-- [Kodlasa](https://kodlasa.com) — Eğitim ve geliştirme platformu
-
-## Yetkinlikler (detay)
-
-**Ön yüz:** React, Vue.js, TypeScript, Next.js, Tailwind CSS, Vite  
-
-**Arka uç:** Node.js, Python, Express, FastAPI, GraphQL, REST  
-
-**Veri:** PostgreSQL, MongoDB, Redis, Prisma, Supabase  
-
-**DevOps ve bulut:** Docker, AWS, Kubernetes, CI/CD, Terraform, Linux  
-
-**Kalite ve araçlar:** Git, GitHub Actions, Jest, Figma, Postman  
-
-**Performans:** Web Vitals, önbellekleme, CDN, paket analizi  
-
-**Özet:** 5+ yıl · 50+ tamamlanan proje · 25+ teknoloji  
-
-## Portföy web sitesi deposu
-
-[**emirtiryaki.com**](https://github.com/emirirr/emirtiryaki.com) portföy sitesinin açık kaynak deposu: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router, Framer Motion; açık/koyu tema, proje vitrini, öne çıkanlar ve iletişim formu.
-
-```bash
-git clone https://github.com/emirirr/emirtiryaki.com.git
-cd emirtiryaki.com
-npm install
-npm run dev
-```
